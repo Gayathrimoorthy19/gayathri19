@@ -1,0 +1,23 @@
+LIST
+name=[“vijitha”,”lathika”,”vijayadeepa”]
+name.append(“nivetha”)
+marks=[60,70,50]
+print(name)
+print(marks[2])
+print(len(name))
+print(len(marks))
+
+TUPLE
+Months=(“august”,”September”,”October”)
+print(months[2])
+
+DICTIONARY
+Student={
+          “name”:”Nivetha”
+          ”Age”:20
+          ”city”:”Madurai”
+}
+Print(student details”)
+Print(“name:”,student[“name”])
+Print(“Age:”,student[“age”])
+Print(“city:”,student[“city”])
