@@ -1,0 +1,1002 @@
+﻿Patient_ID,Patient_Name,Age,Gender,Disease,Admission_Date,Discharge_Date,Doctor,Department,City,Blood_Group,Insurance,Treatment_Cost,Status,Room_Type
+P0001,Amber Boyd,56,Female,Heart Disease,6/19/2025,6/20/2025,Dr. Perry,Endocrinology,Karenborough,AB-,Yes,99612,Recovered,Semi-Private
+P0002,Joseph Turner,22,Female,Typhoid,7/17/2025,7/29/2025,Dr. Perez,Cardiology,East Monica,A-,Yes,74845,Recovered,Semi-Private
+P0003,Joshua Shelton DVM,54,Male,Heart Disease,5/3/2025,5/14/2025,Dr. Murphy,Infectious Disease,Pageside,AB+,No,93013,Under Treatment,General
+P0004,Michele Ballard,75,Male,COVID-19,4/11/2025,4/20/2025,Dr. Smith,Infectious Disease,Brettborough,AB-,No,52475,Under Treatment,Private
+P0005,Desiree Huffman,4,Female,Typhoid,1/25/2025,2/2/2025,Dr. Kent,Pulmonology,Roweborough,B-,Yes,47335,Under Treatment,General
+P0006,Melissa Hall,64,Male,COVID-19,7/14/2025,7/25/2025,Dr. Bowen,Endocrinology,Lake Emily,O-,Yes,83532,Recovered,General
+P0007,Allison Cooley,65,Female,COVID-19,2/19/2025,2/28/2025,Dr. Lewis,Endocrinology,North Alexander,B-,No,20086,Recovered,Private
+P0008,Timothy Johnson,70,Female,Diabetes,10/14/2025,10/21/2025,Dr. Perez,General Medicine,New Aaron,B-,No,77457,Under Treatment,Semi-Private
+P0009,Kimberly Hernandez,3,Male,Typhoid,11/17/2024,11/28/2024,Dr. Stephens,General Medicine,Port Kennethmouth,A+,Yes,15174,Recovered,Semi-Private
+P0010,Brittney Underwood,79,Female,COVID-19,9/24/2024,10/3/2024,Dr. Reynolds,Infectious Disease,West Kimberlyfort,B+,No,48741,Under Treatment,General
+P0011,Aaron Anderson,11,Male,Diabetes,6/28/2025,7/13/2025,Dr. Webb,Endocrinology,Robinsonland,B-,Yes,53116,Under Treatment,General
+P0012,Brett Pena,41,Male,Malaria,3/16/2026,3/25/2026,Dr. Armstrong,Infectious Disease,New Jasminemouth,AB+,Yes,46265,Under Treatment,Private
+P0013,Samuel Hart,34,Female,COVID-19,6/18/2025,6/19/2025,Dr. Kim,General Medicine,West Bryan,B-,No,31242,Recovered,Semi-Private
+P0014,William Chan,70,Female,Hypertension,12/23/2025,1/5/2026,Dr. Estrada,Infectious Disease,Baldwinhaven,AB+,Yes,17339,Recovered,General
+P0015,Cody Chung,86,Female,COVID-19,4/28/2026,5/2/2026,Dr. Gutierrez,General Medicine,North Monicaton,O+,No,61241,Recovered,Semi-Private
+P0016,Krystal Anthony,36,Male,Asthma,2/20/2026,2/25/2026,Dr. Thompson,Cardiology,Chenside,A-,No,36566,Under Treatment,Semi-Private
+P0017,Amber Reyes,55,Female,Malaria,3/18/2026,4/1/2026,Dr. Gutierrez,General Medicine,Thomashaven,A-,Yes,40927,Under Treatment,General
+P0018,Stephanie Smith,5,,Dengue,8/21/2025,8/28/2025,Dr. Soto,Cardiology,Ingramland,A+,Yes,49353,Recovered,Private
+P0019,Charlene Henson,69,Female,Heart Disease,8/27/2025,9/5/2025,Dr. Ellis,Infectious Disease,North Rachel,O-,Yes,74688,Under Treatment,Semi-Private
+P0020,Tina Lowery,77,Female,Asthma,5/17/2026,5/27/2026,Dr. Hicks,Cardiology,Thompsonville,O-,Yes,18655,Recovered,Private
+P0021,Brenda Rodriguez,20,Male,Hypertension,12/4/2024,12/19/2024,Dr. Schroeder,Endocrinology,Campbellton,AB-,Yes,90000,Recovered,Private
+P0022,Joel Wade,12,Female,Malaria,11/18/2025,11/22/2025,Dr. Cruz,Pulmonology,Gillespiebury,B-,Yes,28896,Recovered,Semi-Private
+P0023,Tony Williams,18,Male,Asthma,7/26/2025,7/27/2025,Dr. Jones,Endocrinology,South Jacobfort,O-,Yes,43941,Recovered,Semi-Private
+P0024,Amanda Harper,44,Female,Dengue,4/25/2025,5/9/2025,Dr. Hall,Endocrinology,Aaronmouth,B-,Yes,22018,Under Treatment,Semi-Private
+P0025,Ernest Davis,66,Male,COVID-19,9/29/2025,10/1/2025,Dr. Wright,Pulmonology,Port Scott,A+,No,92410,Under Treatment,Semi-Private
+P0026,David Reeves,79,Female,Diabetes,7/8/2024,7/20/2024,Dr. Parks,Infectious Disease,South Kayla,O+,No,68402,Recovered,Private
+P0027,Tiffany Smith,29,Male,Hypertension,12/6/2025,12/10/2025,Dr. Reed,Pulmonology,Johnton,B+,No,21797,Recovered,Semi-Private
+P0028,Teresa Nelson,50,Male,Typhoid,10/3/2025,10/12/2025,Dr. Hendricks,General Medicine,East Josephfurt,AB-,No,37110,Under Treatment,Private
+P0029,Laura Gibson,6,Male,COVID-19,10/16/2025,10/24/2025,Dr. Rogers,Cardiology,Matthewton,B-,No,35053,Under Treatment,Private
+P0030,Raymond Lopez,70,Male,Malaria,12/10/2025,12/23/2025,Dr. Simmons,Endocrinology,Lake Crystalshire,B-,No,35412,Under Treatment,General
+P0031,Kristine Rodriguez,67,Female,Malaria,1/29/2026,2/2/2026,Dr. Garcia,Endocrinology,East Leeburgh,A-,Yes,60081,Recovered,Private
+P0032,Mrs. Shannon Bennett,1,Female,COVID-19,5/9/2026,5/11/2026,Dr. Hernandez,Infectious Disease,North Lynnton,B-,No,53334,Under Treatment,General
+P0033,Melissa Miller,68,Male,Hypertension,9/4/2025,9/8/2025,Dr. Obrien,General Medicine,Lisaville,O+,Yes,5469,Recovered,General
+P0034,Diana Tucker,3,Male,Asthma,12/13/2025,12/16/2025,Dr. Reed,Pulmonology,West Coreyfurt,B+,Yes,74830,Under Treatment,Private
+P0035,Terry Marshall,63,Female,Asthma,11/27/2024,12/7/2024,Dr. Miller,Cardiology,East Rachelland,AB-,Yes,11187,Under Treatment,Private
+P0036,Tammy Huerta,48,Female,COVID-19,11/10/2024,11/21/2024,Dr. Howard,General Medicine,Port Melindamouth,AB-,No,26240,Under Treatment,Private
+P0037,Angela Smith,87,Female,Typhoid,8/12/2024,8/13/2024,Dr. Orozco,Endocrinology,New Joseph,AB+,No,9314,Recovered,General
+P0038,Kimberly Dodson,10,Female,Heart Disease,9/10/2024,9/19/2024,Dr. Chavez,Cardiology,Gloriafort,AB-,No,13076,Recovered,Semi-Private
+P0039,Kelly Nguyen,60,Female,Asthma,11/4/2025,11/14/2025,Dr. Hall,Endocrinology,Port Brittany,A+,Yes,39594,Recovered,Private
+P0040,Suzanne Black,38,Male,Hypertension,11/30/2025,12/2/2025,Dr. Miller,Pulmonology,Gilmoreborough,O+,Yes,37274,Under Treatment,Private
+P0041,Jason Vasquez,70,Female,Diabetes,10/8/2024,10/16/2024,Dr. Jackson,General Medicine,North Michael,A-,Yes,72072,Under Treatment,General
+P0042,Kristina Bailey,4,Female,Hypertension,10/6/2024,10/13/2024,Dr. Wright,Pulmonology,Thomasshire,B+,Yes,98434,Recovered,Private
+P0043,Amanda Bowers,72,Female,Dengue,11/17/2024,11/26/2024,Dr. Franco,Infectious Disease,Turnershire,O+,Yes,9314,Recovered,Private
+P0044,Michael Fowler,87,Male,Heart Disease,4/16/2025,4/17/2025,Dr. Wade,Pulmonology,New Diane,O+,Yes,5529,Under Treatment,General
+P0045,Margaret Mathews,63,Male,Asthma,4/5/2026,4/7/2026,Dr. Johnson,General Medicine,South Rhonda,A+,No,94060,Under Treatment,Private
+P0046,Hunter Davis,57,Female,Diabetes,5/17/2026,5/24/2026,Dr. Hinton,Pulmonology,Bryantfort,A-,No,15926,Under Treatment,General
+P0047,Katherine Gonzalez,7,Female,Hypertension,7/1/2025,7/15/2025,Dr. Bishop,Infectious Disease,New Benjamin,B-,Yes,49731,Under Treatment,Semi-Private
+P0048,Timothy Perez,84,Female,Dengue,9/27/2025,10/11/2025,Dr. Riley,Cardiology,North Rebecca,A+,No,47747,Under Treatment,General
+P0049,Kelli Cole,20,Male,COVID-19,2/5/2026,2/19/2026,Dr. King,Pulmonology,Port Alexander,O+,No,96123,Recovered,Private
+P0050,Christina Perez,87,Male,Malaria,4/4/2026,4/10/2026,Dr. Mullins,General Medicine,South Michael,A+,Yes,55186,Under Treatment,Semi-Private
+P0051,Gregory Robinson,77,Male,Hypertension,3/29/2025,4/6/2025,Dr. Williams,Cardiology,Port Scottburgh,B+,No,10951,Recovered,Private
+P0052,Rachel Johnson,90,Female,Hypertension,8/11/2025,8/13/2025,Dr. Wilson,Infectious Disease,Margaretstad,B+,No,58015,Under Treatment,Semi-Private
+P0053,David Fischer,39,Male,Typhoid,1/24/2026,2/6/2026,Dr. Mcdonald,Cardiology,South Nicholas,O+,No,30407,Recovered,General
+P0054,Stephen Reed,75,Male,Typhoid,9/17/2024,9/20/2024,Dr. Hoffman,Infectious Disease,Justinburgh,A+,No,8532,Recovered,Private
+P0055,Amy Smith,21,Male,Malaria,1/15/2026,1/22/2026,Dr. Mendoza,Cardiology,North Michelleview,A+,No,72520,Recovered,Semi-Private
+P0056,Victoria Hicks,43,Female,Heart Disease,2/20/2026,3/4/2026,Dr. Andrews,Pulmonology,South Donald,B-,No,61014,Recovered,Private
+P0057,Lisa Meyer,50,Male,Heart Disease,4/27/2025,4/28/2025,Dr. Salazar,Pulmonology,Smithland,B-,No,70320,Under Treatment,Semi-Private
+P0058,Bradley Green,64,Male,Typhoid,7/21/2024,8/4/2024,Dr. Gibson,Infectious Disease,West Shannon,A+,Yes,90382,Under Treatment,General
+P0059,Joseph Arnold,19,Male,Diabetes,8/8/2025,8/15/2025,Dr. Howard,Infectious Disease,Zacharymouth,O-,Yes,62550,Under Treatment,General
+P0060,Joseph Parrish,13,Male,Hypertension,9/17/2024,10/2/2024,Dr. Frank,Endocrinology,South Bradley,O-,No,44473,Under Treatment,Semi-Private
+P0061,Michael Kane,27,Female,Asthma,5/6/2025,5/15/2025,Dr. Jacobs,General Medicine,East Johnchester,A-,Yes,32267,Under Treatment,General
+P0062,Emily Bennett,85,Female,COVID-19,3/12/2026,3/24/2026,Dr. Garcia,Infectious Disease,New Julian,A+,No,23404,Under Treatment,Private
+P0063,Javier Reid,78,Female,Dengue,6/6/2026,6/19/2026,Dr. Perez,Infectious Disease,Whitemouth,O-,No,79458,Recovered,Semi-Private
+P0064,Christopher Fischer,72,Male,COVID-19,3/29/2026,4/2/2026,Dr. Gregory,Pulmonology,West Elizabethmouth,O+,No,72252,Recovered,Semi-Private
+P0065,Tracey Johnson,32,Male,Diabetes,1/5/2025,1/16/2025,Dr. Marshall,Infectious Disease,North Stephen,O-,No,42545,Under Treatment,Semi-Private
+P0066,Jessica White,85,Male,Diabetes,11/8/2024,11/20/2024,Dr. Adams,Cardiology,New Jennifer,B+,Yes,21646,Under Treatment,General
+P0067,Bryan Decker,6,Male,COVID-19,1/4/2025,1/15/2025,Dr. Alvarado,Endocrinology,Davidton,B+,Yes,90309,,Private
+P0068,Stefanie Baker,27,Male,Typhoid,11/20/2024,11/21/2024,Dr. Stark,Infectious Disease,Stewartside,B+,Yes,19883,Recovered,General
+P0069,Belinda Brown,66,Female,Dengue,1/8/2026,1/18/2026,Dr. Miller,Infectious Disease,North Karenbury,AB-,Yes,10555,Recovered,Private
+P0070,Thomas Moore,32,Female,COVID-19,10/14/2025,10/15/2025,Dr. Miller,Cardiology,South Travis,B-,No,63999,Recovered,Private
+P0071,Laurie Cole,16,Male,Heart Disease,11/12/2025,11/20/2025,Dr. Sullivan,Endocrinology,Ginaton,AB-,Yes,44838,Under Treatment,Private
+P0072,Mark Thompson,31,Female,COVID-19,12/7/2025,12/19/2025,Dr. Griffin,Pulmonology,Johnmouth,AB+,Yes,98616,Under Treatment,Private
+P0073,Christopher Stephenson,56,Female,Dengue,3/1/2025,3/9/2025,Dr. Wood,Infectious Disease,Abigailton,A-,Yes,50741,Under Treatment,Semi-Private
+P0074,Jill Norman,62,Male,Typhoid,10/13/2024,10/15/2024,Dr. Parsons,Endocrinology,North Sarahside,AB-,No,89299,Under Treatment,General
+P0075,Madison Miller,45,Female,Heart Disease,11/17/2024,11/30/2024,Dr. Bowman,Pulmonology,Kathyton,B+,No,36761,Recovered,Private
+P0076,Dr. Sarah Leach,36,Male,Heart Disease,1/27/2025,2/8/2025,Dr. Martinez,Endocrinology,Emilyfurt,B+,Yes,24505,Recovered,General
+P0077,Sharon Welch,28,Female,COVID-19,12/11/2025,12/17/2025,Dr. Buchanan,Pulmonology,North Katherineburgh,O-,Yes,31258,Under Treatment,Private
+P0078,Billy Jones,16,Male,Diabetes,8/2/2024,8/10/2024,Dr. Hale,Endocrinology,Gregoryland,O+,Yes,60699,Under Treatment,Semi-Private
+P0079,Aaron Walter,24,Female,Diabetes,9/21/2024,9/28/2024,Dr. Lane,General Medicine,Glennfort,AB+,No,25988,Under Treatment,General
+P0080,Shirley Graves,66,Female,Dengue,12/20/2024,12/29/2024,Dr. Mcpherson,General Medicine,Jasonhaven,A+,No,82315,Under Treatment,General
+P0081,Ricky Johnson,4,Female,Asthma,9/7/2025,9/19/2025,Dr. Joyce,General Medicine,North Tonifort,B-,No,68935,Under Treatment,General
+P0082,David Torres,4,Female,Dengue,6/28/2025,7/13/2025,Dr. Mcclure,General Medicine,North Maria,B+,Yes,10268,Recovered,General
+P0083,Sherry Chang,36,Female,Dengue,3/23/2025,3/29/2025,Dr. Woodard,Infectious Disease,Rodneyville,B-,No,66452,Under Treatment,General
+P0084,Hannah Hughes,43,Female,Hypertension,2/13/2025,2/27/2025,Dr. Zimmerman,Pulmonology,Alvaradoland,B+,No,55516,Under Treatment,General
+P0085,Marcus Stanton,47,Female,Diabetes,8/19/2025,9/2/2025,Dr. Reynolds,General Medicine,South Reginaldbury,B+,No,52546,Under Treatment,Semi-Private
+P0086,Lindsay Hobbs,58,Female,COVID-19,6/8/2025,6/20/2025,Dr. Taylor,Cardiology,Harrisbury,A-,Yes,72576,Under Treatment,Private
+P0087,Dawn Terry,34,Female,Asthma,8/28/2024,8/31/2024,Dr. Bell,Infectious Disease,Lake Janicemouth,B-,Yes,33563,Under Treatment,General
+P0088,Martha Rogers,1,Male,Typhoid,11/29/2025,12/10/2025,Dr. Nelson,Pulmonology,Annafurt,AB-,Yes,53950,Recovered,Private
+P0089,Jordan Harris,42,Male,Dengue,11/7/2024,11/19/2024,Dr. Franklin,Infectious Disease,Reynoldsberg,B+,Yes,71415,Recovered,Private
+P0090,Jennifer Miller,16,Male,COVID-19,1/6/2025,1/17/2025,Dr. Davis,General Medicine,New Edwardfort,AB+,No,35770,Recovered,Semi-Private
+P0091,Andrew Herrera,73,Female,Asthma,3/21/2025,3/30/2025,Dr. Romero,Endocrinology,Julieville,B-,No,35255,Recovered,General
+P0092,Theresa Poole,62,Female,Asthma,9/23/2024,10/1/2024,Dr. Clark,Endocrinology,Castillomouth,O-,No,79268,Under Treatment,Semi-Private
+P0093,Robert Cole,67,Male,Heart Disease,10/26/2024,10/29/2024,Dr. Mckinney,Infectious Disease,Tommymouth,AB-,No,81720,Recovered,Semi-Private
+P0094,Amanda Browning,8,Female,COVID-19,11/18/2024,11/24/2024,Dr. Hancock,Cardiology,North Jorgeberg,O+,Yes,76922,Under Treatment,Private
+P0095,Jason Gilbert,3,Male,COVID-19,4/21/2025,4/29/2025,Dr. Garcia,Pulmonology,Jamieburgh,AB+,Yes,14365,Under Treatment,General
+P0096,Brianna Goodwin,82,Female,Dengue,10/31/2024,11/3/2024,Dr. Thomas,General Medicine,Gonzalezton,B+,No,32449,Recovered,Semi-Private
+P0097,Cassandra Thornton,26,Male,Hypertension,10/7/2025,10/9/2025,Dr. Johnson,Pulmonology,Lake Cindy,A-,No,96028,Under Treatment,General
+P0098,Keith Allen,58,Female,Malaria,10/6/2024,10/9/2024,Dr. Mitchell,General Medicine,Kimberlyborough,B-,Yes,37035,Under Treatment,General
+P0099,Shelley Wong,57,Female,Typhoid,8/21/2024,9/5/2024,Dr. Aguirre,Endocrinology,Port Alex,A+,Yes,13271,Under Treatment,General
+P0100,Jeffrey Nash,90,Male,Heart Disease,3/25/2025,4/3/2025,Dr. Bowman,Cardiology,Santanafort,B-,No,82278,Recovered,Semi-Private
+P0101,Evan Martinez,23,Male,COVID-19,11/9/2024,11/24/2024,Dr. Turner,Cardiology,Stephanieton,AB+,No,23745,Recovered,General
+P0102,Robert Hall,32,Female,Asthma,2/3/2025,2/14/2025,Dr. Allen,General Medicine,East Kristina,A+,Yes,44845,Recovered,General
+P0103,Raymond Gonzales,31,Female,Diabetes,5/25/2025,6/6/2025,Dr. Kelly,Infectious Disease,Emmaberg,O-,Yes,16618,Under Treatment,Semi-Private
+P0104,William Bailey,71,Female,Malaria,12/30/2024,1/6/2025,Dr. Washington,Infectious Disease,Angelafort,O-,No,82755,Recovered,General
+P0105,Alexander Lopez,53,Male,Diabetes,3/20/2026,3/25/2026,Dr. Abbott,Cardiology,West James,AB+,No,63718,Under Treatment,General
+P0106,Paula Graham,82,Male,Hypertension,5/31/2026,6/4/2026,Dr. Olson,Cardiology,New Amber,AB+,Yes,95084,Under Treatment,Semi-Private
+P0107,Justin Chandler,7,Female,Malaria,9/27/2024,10/9/2024,Dr. Thompson,Endocrinology,Katelynport,A-,Yes,70777,Under Treatment,Private
+P0108,David King,26,Female,Malaria,10/29/2025,11/12/2025,Dr. West,Endocrinology,East Stevenview,O-,Yes,45412,Under Treatment,Private
+P0109,Caitlyn Moore,13,Female,COVID-19,7/25/2025,7/29/2025,Dr. Curtis,Infectious Disease,Burnsstad,A-,Yes,31377,Recovered,General
+P0110,Scott Ingram,42,Female,Diabetes,3/19/2026,4/2/2026,Dr. Olsen,Endocrinology,Matthewshire,B-,Yes,98321,Under Treatment,Semi-Private
+P0111,Tammy King,6,Male,Typhoid,1/31/2025,2/2/2025,Dr. Haynes,Cardiology,New Robertview,A+,No,72995,Under Treatment,General
+P0112,Tammy Finley,84,Female,Heart Disease,5/4/2025,5/5/2025,Dr. Diaz,Infectious Disease,Michaelfort,AB+,No,32788,Under Treatment,Semi-Private
+P0113,Eric Phelps,34,Female,COVID-19,8/25/2025,9/1/2025,Dr. Young,Infectious Disease,Rebeccatown,O+,Yes,30097,Recovered,Semi-Private
+P0114,Morgan Salinas,34,Male,Asthma,3/9/2025,3/16/2025,Dr. Le,Infectious Disease,Savagestad,A+,No,87188,Recovered,Private
+P0115,Curtis Hunt,47,Male,Asthma,7/10/2025,7/25/2025,Dr. Thomas,Infectious Disease,Port Christine,B+,Yes,55402,Under Treatment,Private
+P0116,Jessica Michael,76,Female,Diabetes,11/5/2024,11/16/2024,Dr. Clark,Pulmonology,Parkerhaven,A+,No,85237,Recovered,Semi-Private
+P0117,Michael Ross,44,Female,COVID-19,12/1/2024,12/7/2024,Dr. Price,Pulmonology,North Julie,AB-,No,26119,Recovered,General
+P0118,Mr. Hunter Bates,44,Female,Diabetes,11/17/2025,12/1/2025,Dr. Davis,General Medicine,West Ashleyport,O+,No,65739,Under Treatment,Private
+P0119,Larry Howard,74,Female,Typhoid,1/3/2026,1/5/2026,Dr. Scott,Endocrinology,Jesseside,A+,Yes,86078,Under Treatment,Semi-Private
+P0120,Steve Burns,66,Female,Malaria,9/5/2024,9/8/2024,Dr. Hartman,Cardiology,Taylorhaven,O-,No,38603,Recovered,Private
+P0121,Tony Cook,54,Male,Malaria,3/26/2026,4/9/2026,Dr. Edwards,Infectious Disease,Williamsonfort,AB-,Yes,72851,Under Treatment,Private
+P0122,Nicole Williams,17,Male,COVID-19,3/31/2025,4/6/2025,Dr. White,Pulmonology,Jenniferhaven,B-,No,52337,Under Treatment,General
+P0123,Danielle Davis,58,Female,COVID-19,12/1/2025,12/16/2025,Dr. Watkins,Endocrinology,Washingtonport,B+,No,32712,Recovered,Semi-Private
+P0124,Mrs. Claudia Scott,31,Female,Hypertension,11/15/2024,11/17/2024,Dr. Morris,Cardiology,East Mark,O+,No,41521,Recovered,Private
+P0125,Natalie Harmon,27,Female,Malaria,7/4/2024,7/10/2024,Dr. Garcia,General Medicine,Ashleytown,B+,Yes,98109,Recovered,General
+P0126,Benjamin Mcdowell,78,Female,Malaria,5/16/2026,5/31/2026,Dr. Smith,Infectious Disease,West Wesley,B-,Yes,69568,Under Treatment,Semi-Private
+P0127,Angel Mercado,13,Female,Typhoid,3/11/2025,3/15/2025,Dr. Malone,Cardiology,Port Andreastad,B-,No,44056,Recovered,Semi-Private
+P0128,Micheal Wood,1,Female,Heart Disease,2/10/2025,2/12/2025,Dr. Clay,Endocrinology,Randyfort,O+,Yes,12879,Recovered,Private
+P0129,Roger Kaufman,26,Female,Hypertension,1/5/2026,1/18/2026,Dr. Harvey,Infectious Disease,Williamsfort,B+,Yes,29864,Under Treatment,Private
+P0130,Timothy Aguirre Jr.,88,Female,Heart Disease,5/26/2025,6/8/2025,Dr. Burke,Cardiology,East Lisaville,O+,No,18100,Under Treatment,Semi-Private
+P0131,Jeff Kim,73,Male,Hypertension,10/1/2025,10/14/2025,Dr. Crawford,General Medicine,Marcusbury,B+,No,5824,Under Treatment,Semi-Private
+P0132,Courtney Blake,45,Male,Typhoid,12/2/2024,12/10/2024,Dr. Dominguez,Cardiology,Hillchester,O-,No,80349,Under Treatment,General
+P0133,Tyler Smith,29,Female,Dengue,7/29/2025,8/4/2025,Dr. Bradley,General Medicine,Port Kellyshire,O-,Yes,42278,Under Treatment,Semi-Private
+P0134,Angela Wells,8,Female,Dengue,5/30/2025,6/14/2025,Dr. Davis,Cardiology,New Gail,A+,No,86895,Recovered,Private
+P0135,Kristen Lawrence,8,Female,Diabetes,11/5/2024,11/10/2024,Dr. Nguyen,Pulmonology,Bryantmouth,A+,Yes,34964,Under Treatment,Semi-Private
+P0136,Colton Baker,1,Female,Heart Disease,4/14/2026,4/18/2026,Dr. Smith,Infectious Disease,North Jamesview,A-,Yes,39779,Recovered,Semi-Private
+P0137,Molly Martin,21,Male,Heart Disease,9/15/2024,9/21/2024,Dr. Gomez,General Medicine,West Mariaport,AB-,Yes,88667,Recovered,Semi-Private
+P0138,Michelle Gould,34,Female,COVID-19,5/22/2025,5/29/2025,Dr. James,Infectious Disease,Port Emily,AB-,Yes,43453,Recovered,Semi-Private
+P0139,Robert Pruitt,72,Male,Hypertension,4/7/2025,4/17/2025,Dr. Ellis,Pulmonology,Williamsside,A-,Yes,9925,Recovered,Semi-Private
+P0140,Jerry Greene,33,Male,Malaria,12/30/2025,1/14/2026,Dr. Oconnor,Cardiology,East Williamland,AB+,Yes,32396,Under Treatment,Private
+P0141,Kristy Dalton,37,Female,Asthma,1/3/2025,1/11/2025,Dr. Moon,Pulmonology,South David,AB-,No,67994,Under Treatment,Private
+P0142,Matthew Cruz,20,Female,Heart Disease,1/27/2025,2/10/2025,Dr. Fletcher,Endocrinology,East Melissa,A+,Yes,10882,Recovered,General
+P0143,James Burke,49,Female,Heart Disease,4/3/2026,4/18/2026,Dr. Wallace,General Medicine,Johnsonton,AB+,Yes,81535,Recovered,General
+P0144,Danielle Bates,64,Male,Diabetes,4/19/2026,4/20/2026,Dr. Aguilar,Endocrinology,Lake Tinaberg,A+,Yes,76397,Recovered,General
+P0145,Gina Phillips,36,Male,Typhoid,6/15/2025,6/28/2025,Dr. Miller,Pulmonology,West Dianeton,B-,Yes,31589,Under Treatment,Private
+P0146,Luis Peters,29,Male,Hypertension,4/5/2026,4/7/2026,Dr. Hinton,Pulmonology,Nguyenchester,B-,Yes,22210,Recovered,General
+P0147,Nathan James,79,Female,Asthma,8/13/2024,8/17/2024,Dr. Lee,Cardiology,Richardland,B+,Yes,95444,Under Treatment,Private
+P0148,Hector Cobb,48,Male,Asthma,5/15/2026,5/24/2026,Dr. Parks,Cardiology,North Tammyport,AB-,No,85075,Under Treatment,General
+P0149,Kimberly Coleman,78,Male,Asthma,6/18/2025,7/1/2025,Dr. Watson,Cardiology,North Amandabury,B-,Yes,15053,Recovered,Private
+P0150,Pamela Parker,48,Male,Dengue,10/3/2024,10/17/2024,Dr. Lopez,Pulmonology,Powellburgh,AB+,No,65784,Under Treatment,Semi-Private
+P0151,Edward Miller,10,Female,Hypertension,12/27/2025,1/6/2026,Dr. Vincent,Cardiology,East Kenneth,O+,No,98309,Under Treatment,Semi-Private
+P0152,Courtney Daniels,15,Male,Asthma,12/19/2025,1/1/2026,Dr. Guerrero,Cardiology,Lucasland,A+,Yes,57649,Recovered,Semi-Private
+P0153,Elizabeth Lester,89,Male,Hypertension,1/20/2026,2/3/2026,Dr. Leonard,General Medicine,New Jamestown,O-,No,62797,Under Treatment,Private
+P0154,Benjamin Thornton,62,Male,Dengue,9/24/2024,10/7/2024,Dr. Guerrero,General Medicine,Karenshire,O+,Yes,24423,Recovered,Private
+P0155,Melissa Deleon,1,Female,Dengue,7/3/2024,7/18/2024,Dr. Horne,Infectious Disease,Oliviahaven,AB+,No,38413,Recovered,Semi-Private
+P0156,David Washington,20,Female,Malaria,3/29/2026,4/1/2026,Dr. Jones,Pulmonology,Waltersview,O-,Yes,65863,Under Treatment,Private
+P0157,Christopher Steele,35,Female,Malaria,11/11/2025,11/22/2025,Dr. Hill,General Medicine,Laurachester,O-,No,63068,Under Treatment,Private
+P0158,Victoria Young,86,Male,Diabetes,5/16/2025,5/26/2025,Dr. Palmer,Cardiology,Jimenezborough,AB+,Yes,57017,Recovered,Semi-Private
+P0159,Gregory Jackson,84,Female,Malaria,1/22/2026,2/4/2026,Dr. King,Pulmonology,New Teresabury,B-,Yes,64437,Under Treatment,General
+P0160,Donald King,29,Female,Diabetes,7/28/2025,8/5/2025,Dr. Rodriguez,Endocrinology,Gabriellebury,B-,Yes,36471,Recovered,General
+P0161,Troy Brennan,78,Female,Hypertension,2/14/2026,2/20/2026,Dr. Kramer,Infectious Disease,East Roytown,AB+,No,74122,Recovered,Semi-Private
+P0162,Jennifer Miller,76,Female,Malaria,10/31/2024,11/2/2024,Dr. Drake,Endocrinology,Samanthaside,B+,Yes,95531,Under Treatment,General
+P0163,Tammy Walton,60,Female,COVID-19,3/15/2025,3/17/2025,Dr. Turner,Infectious Disease,North Michaelview,B-,Yes,29114,Under Treatment,Private
+P0164,Jessica Ayala,21,Male,Hypertension,1/11/2026,1/12/2026,Dr. Rogers,Endocrinology,North Davidstad,O-,Yes,36699,Under Treatment,General
+P0165,Kimberly Sampson,41,Male,Asthma,1/23/2025,1/31/2025,Dr. Cochran,General Medicine,South Bethanyberg,O+,No,25235,Recovered,Semi-Private
+P0166,Nicholas King,52,Female,COVID-19,1/31/2026,2/1/2026,Dr. Hunt,Pulmonology,West Kevin,A-,Yes,54784,Recovered,Semi-Private
+P0167,Sarah Goodwin,60,Male,Asthma,8/25/2025,9/8/2025,Dr. Ramirez,Cardiology,Rangelfurt,O+,No,68021,Under Treatment,Semi-Private
+P0168,Rachel Flores,36,Female,Dengue,5/11/2026,5/26/2026,Dr. Atkinson,Cardiology,New Matthew,A+,Yes,5119,Under Treatment,Semi-Private
+P0169,Diana Wagner,41,Female,Asthma,11/19/2024,11/30/2024,Dr. Robertson,General Medicine,Lake Williambury,B+,Yes,59253,Under Treatment,Private
+P0170,Zachary Hoover,17,Female,Malaria,11/17/2024,11/18/2024,Dr. Vasquez,Endocrinology,North Robert,A-,Yes,78136,Recovered,Private
+P0171,Nicole Smith,28,Male,Typhoid,11/10/2024,11/11/2024,Dr. Macdonald,General Medicine,Robertland,O+,No,72160,Recovered,General
+P0172,Angela Mitchell,85,Female,Heart Disease,8/26/2024,8/31/2024,Dr. Craig,Cardiology,West Timothyside,O+,No,23808,Recovered,General
+P0173,Michelle Nelson,33,Female,Heart Disease,5/13/2025,5/25/2025,Dr. Williams,Pulmonology,West Seanfurt,B+,No,35648,Recovered,Semi-Private
+P0174,Carlos Weaver,84,Female,Heart Disease,3/24/2025,4/2/2025,Dr. Browning,Cardiology,Padillafort,O+,Yes,20926,Recovered,General
+P0175,Janet Sanders,3,Male,Heart Disease,12/17/2024,1/1/2025,Dr. Cole,Infectious Disease,East Joshuafort,B-,No,16976,Recovered,Semi-Private
+P0176,Michael Dougherty,48,Female,Asthma,8/3/2025,8/12/2025,Dr. Martinez,Infectious Disease,North Heatherborough,AB+,Yes,57401,Recovered,Private
+P0177,Danielle Burgess,52,Male,Malaria,12/25/2024,12/29/2024,Dr. Stephens,Pulmonology,Lindseyfurt,A+,No,23434,Recovered,Semi-Private
+P0178,Mason Wheeler,27,Male,Diabetes,10/30/2024,11/8/2024,Dr. Gallegos,Endocrinology,West Josephstad,A+,No,61437,Under Treatment,General
+P0179,Jeremy Mcdaniel,70,Male,Asthma,12/6/2024,12/9/2024,Dr. Steele,Infectious Disease,South Lauren,B+,No,12372,Under Treatment,Private
+P0180,Jordan Bender,17,Female,Asthma,2/24/2025,2/26/2025,Dr. Hutchinson,Infectious Disease,New David,B-,No,31972,Recovered,Private
+P0181,Rebecca Brown,3,Female,Asthma,8/10/2025,8/11/2025,Dr. Smith,Cardiology,Warnerfort,A+,Yes,25553,Under Treatment,Semi-Private
+P0182,Samuel Adams,17,Male,Diabetes,9/21/2025,9/24/2025,Dr. Valentine,Cardiology,Hensleystad,B-,Yes,78725,Recovered,Semi-Private
+P0183,Timothy Morales,50,Female,Heart Disease,5/30/2025,6/4/2025,Dr. Sweeney,Cardiology,Russelltown,B+,Yes,88346,Under Treatment,General
+P0184,Nicholas Juarez,26,Male,Hypertension,7/18/2024,7/25/2024,Dr. Campbell,Endocrinology,Warrenmouth,B-,Yes,49711,Recovered,General
+P0185,Donna Stafford,47,Male,Heart Disease,2/24/2025,3/5/2025,Dr. Ferrell,Infectious Disease,Blackwellborough,A+,Yes,28064,Under Treatment,Semi-Private
+P0186,Diana Patterson,87,Male,Asthma,6/11/2026,6/22/2026,Dr. Marshall,Infectious Disease,New Jasminetown,O+,No,13228,Recovered,Private
+P0187,James Phillips,89,Female,Typhoid,11/24/2025,12/6/2025,Dr. Baldwin,Cardiology,New Natalie,AB+,No,53854,Under Treatment,General
+P0188,Andrew Pierce,2,Female,Malaria,8/8/2024,8/16/2024,Dr. Contreras,General Medicine,South Christopher,AB+,No,20371,Under Treatment,General
+P0189,Elijah Ramirez,69,Male,Dengue,5/20/2025,5/24/2025,Dr. Estrada,Pulmonology,Lake Jennifer,AB-,Yes,32892,Recovered,Private
+P0190,Charles Harris,9,Male,Asthma,4/6/2026,4/15/2026,Dr. Hunt,Infectious Disease,Matthewbury,AB-,No,32330,Recovered,General
+P0191,Mrs. Melanie Simpson DDS,56,Female,Malaria,8/4/2025,8/7/2025,Dr. Mcconnell,General Medicine,Pattyton,AB+,No,15503,Under Treatment,Semi-Private
+P0192,Kristen Beck DDS,54,Female,Heart Disease,7/6/2024,7/13/2024,Dr. Sanchez,Endocrinology,West Jamieport,AB+,Yes,14458,Under Treatment,Private
+P0193,Julie Harris,39,Male,Malaria,10/25/2025,10/31/2025,Dr. Sims,Pulmonology,East Tiffanyshire,O-,Yes,79300,Recovered,Private
+P0194,James Bailey,72,Female,Asthma,10/16/2025,10/21/2025,Dr. Warren,Pulmonology,Michaelview,AB-,Yes,79297,Under Treatment,General
+P0195,Rodney Brown,77,Female,Heart Disease,10/21/2024,10/28/2024,Dr. Giles,Pulmonology,Josechester,AB-,No,13451,Recovered,Semi-Private
+P0196,Karen Jarvis,41,Male,Typhoid,1/5/2026,1/6/2026,Dr. Owens,Endocrinology,Dennismouth,O+,No,53189,Under Treatment,Private
+P0197,Travis Harrell,28,Female,Diabetes,11/17/2025,11/23/2025,Dr. Kramer,Infectious Disease,Pamelamouth,A-,No,90118,Under Treatment,Private
+P0198,Adam Murray,61,Female,Malaria,10/20/2025,11/3/2025,Dr. Carpenter,Endocrinology,New Lisa,O+,Yes,47427,Under Treatment,General
+P0199,Charles Perez,52,Male,COVID-19,4/12/2025,4/13/2025,Dr. Schroeder,Endocrinology,Kelleyshire,A-,No,44527,Under Treatment,Semi-Private
+P0200,Mark Perez,15,Male,Asthma,6/11/2025,6/21/2025,Dr. Rodriguez,Cardiology,North Aprilfort,AB+,No,33555,Under Treatment,General
+P0201,Jose Horton,38,Male,Malaria,10/6/2025,10/7/2025,Dr. Miller,Endocrinology,West Emmashire,B+,No,39260,Under Treatment,Semi-Private
+P0202,Kimberly Rodgers,74,Female,Typhoid,8/16/2024,8/26/2024,Dr. Elliott,General Medicine,Michaelmouth,A-,Yes,96781,Under Treatment,Private
+P0203,Joseph Cooper,48,Male,Heart Disease,12/18/2024,12/27/2024,Dr. Lin,General Medicine,Jeffreybury,O+,Yes,76371,Under Treatment,Semi-Private
+P0204,Teresa Spence,84,Male,Asthma,10/29/2025,11/12/2025,Dr. Rogers,General Medicine,Brandonton,O+,No,10812,Recovered,Private
+P0205,Tiffany Cameron,69,Female,Malaria,1/9/2025,1/12/2025,Dr. Russell,Endocrinology,East Rhondastad,O-,No,71237,Recovered,Semi-Private
+P0206,Vincent Williams,70,Male,Hypertension,10/3/2024,10/6/2024,Dr. Wells,Pulmonology,Lake Stephanie,B-,Yes,66186,Under Treatment,Semi-Private
+P0207,Mrs. Dana Meadows,59,Male,Heart Disease,1/23/2025,2/7/2025,Dr. Allen,General Medicine,Lake Kelly,B+,Yes,75828,Recovered,Semi-Private
+P0208,Nicole Evans,28,Female,Asthma,8/8/2024,8/9/2024,Dr. Mendoza,Endocrinology,North Audrey,AB+,No,63658,Recovered,Private
+P0209,Barbara Rowland,24,Male,Dengue,12/4/2025,12/12/2025,Dr. Sanchez,Infectious Disease,Joyton,B+,No,70528,Recovered,General
+P0210,Charles Anderson,68,Female,Heart Disease,2/24/2025,3/3/2025,Dr. Cox,Infectious Disease,Mcmillanstad,B+,Yes,68467,Under Treatment,General
+P0211,Amanda Gray,76,Female,COVID-19,10/14/2024,10/28/2024,Dr. Wilson,General Medicine,Daltonmouth,B-,Yes,5997,Under Treatment,Private
+P0212,Kevin Welch,83,Female,Typhoid,1/26/2025,2/1/2025,Dr. Parks,Endocrinology,Olsonmouth,B-,No,60859,Under Treatment,Semi-Private
+P0213,Terri Ward,31,Female,Heart Disease,5/30/2025,6/9/2025,Dr. Farmer,Cardiology,East Dawn,AB-,No,87745,Recovered,Semi-Private
+P0214,Erin Smith,25,Male,Asthma,6/10/2025,6/11/2025,Dr. Reid,Infectious Disease,Meganville,AB-,No,54812,Under Treatment,Semi-Private
+P0215,Ryan Thomas,72,Male,Hypertension,1/24/2026,1/27/2026,Dr. Hanson,Pulmonology,Kevinstad,B+,No,18742,Under Treatment,Private
+P0216,Deanna Cooper,37,Female,Heart Disease,3/25/2025,3/31/2025,Dr. Carter,Pulmonology,East Sherry,B-,Yes,20352,Under Treatment,General
+P0217,Betty Stewart,35,Female,Heart Disease,4/29/2026,5/4/2026,Dr. Richardson,Cardiology,North Michaelborough,A+,Yes,50710,Under Treatment,Private
+P0218,Beth Chavez,60,Female,Hypertension,7/15/2024,7/20/2024,Dr. Griffin,Pulmonology,Sandersbury,B-,No,56566,Recovered,Semi-Private
+P0219,Melvin Ford,33,Female,Diabetes,3/13/2026,3/18/2026,Dr. Webb,General Medicine,Padillaside,O-,Yes,17023,Under Treatment,Semi-Private
+P0220,Rebecca Everett,67,Male,Hypertension,8/27/2024,9/9/2024,Dr. Maxwell,Endocrinology,Deborahshire,AB-,Yes,42476,Recovered,Private
+P0221,Mrs. Andrea Taylor MD,51,Male,Dengue,4/29/2025,5/6/2025,Dr. Taylor,General Medicine,New Melanie,O-,No,63959,Under Treatment,Private
+P0222,Jason Robinson,23,Male,Asthma,2/14/2026,2/16/2026,Dr. Savage,Endocrinology,West Kathleen,B+,Yes,19990,Under Treatment,General
+P0223,Troy Allen,14,Female,Asthma,7/13/2025,7/19/2025,Dr. Warren,Cardiology,Perkinsville,AB+,No,97978,Recovered,Semi-Private
+P0224,Richard Bishop,88,Female,Malaria,9/1/2025,9/11/2025,Dr. Hawkins,Endocrinology,Lake Mason,O-,Yes,12571,Under Treatment,Private
+P0225,Zachary Monroe,87,Male,Hypertension,11/16/2025,11/23/2025,Dr. Howard,Cardiology,West Jeremy,O-,No,39109,Recovered,Private
+P0226,Ryan Mayer,87,Male,Heart Disease,6/26/2025,7/2/2025,Dr. Owens,Infectious Disease,Mariabury,B+,No,89985,Under Treatment,Private
+P0227,Lisa Bridges,14,Male,COVID-19,11/4/2024,11/13/2024,Dr. Carroll,Cardiology,Lake Anthony,B-,No,7980,Recovered,Private
+P0228,Rebecca Olson,23,Female,COVID-19,5/16/2026,5/25/2026,Dr. Kim,Endocrinology,South Briannamouth,O+,Yes,75317,Under Treatment,Private
+P0229,Andrew Valencia,82,Female,Hypertension,4/25/2025,5/7/2025,Dr. Malone,Pulmonology,Walkerfort,A-,Yes,25215,Under Treatment,Private
+P0230,Amber Nguyen,40,Male,Diabetes,6/13/2026,6/21/2026,Dr. Kim,Pulmonology,West Christine,AB+,No,94608,Recovered,Semi-Private
+P0231,David Rivera,42,Male,Malaria,6/18/2024,7/2/2024,Dr. Phillips,Infectious Disease,Susanchester,AB-,No,60648,Under Treatment,Semi-Private
+P0232,Victor Reed,46,Male,Asthma,9/21/2025,10/1/2025,Dr. Anderson,Infectious Disease,Millertown,A+,Yes,18726,Under Treatment,Semi-Private
+P0233,William Cooper,63,Female,Asthma,8/12/2024,8/25/2024,Dr. Lee,Cardiology,North Zachary,AB+,Yes,43678,Under Treatment,Semi-Private
+P0234,Hannah Matthews,24,Female,COVID-19,12/11/2025,12/22/2025,Dr. Ford,Endocrinology,Hendersonhaven,A-,No,9555,Recovered,Semi-Private
+P0235,Charles Kirk,60,Male,Malaria,4/15/2025,4/25/2025,Dr. Jones,Pulmonology,South Lori,AB-,No,74715,Recovered,Semi-Private
+P0236,Stacey Barker,5,Female,Asthma,9/11/2025,9/13/2025,Dr. Shannon,Pulmonology,Dominguezville,AB+,No,88123,Recovered,Private
+P0237,Bryan Clark,6,Female,Malaria,7/2/2024,7/9/2024,Dr. Walton,Pulmonology,New Patricia,AB-,Yes,92708,Under Treatment,General
+P0238,Terri Brown,1,Female,Malaria,10/17/2024,10/23/2024,Dr. Weiss,Infectious Disease,Leehaven,A+,Yes,25930,Recovered,Private
+P0239,Victoria Mata,12,Female,Asthma,4/18/2026,4/26/2026,Dr. Barrett,Pulmonology,Lyonsstad,A-,No,44077,Under Treatment,General
+P0240,Matthew Le,66,Male,COVID-19,3/25/2025,3/29/2025,Dr. Murphy,Pulmonology,Allenstad,AB+,No,37898,Under Treatment,General
+P0241,Brandon Banks,1,Male,Hypertension,3/31/2025,4/14/2025,Dr. Reeves,Infectious Disease,Irwinhaven,A+,No,40477,Recovered,General
+P0242,Lynn Gonzalez,30,Male,Heart Disease,9/23/2024,10/7/2024,Dr. Irwin,Endocrinology,Jonesville,O-,Yes,39618,Recovered,Private
+P0243,Bethany Hall,14,Male,Typhoid,6/11/2025,6/24/2025,Dr. Aguilar,Endocrinology,West Brian,A-,No,75019,Under Treatment,Semi-Private
+P0244,Mrs. Jade Ramos,66,Male,Malaria,12/1/2024,12/7/2024,Dr. Brown,General Medicine,South Marciaport,O+,No,52337,Under Treatment,Semi-Private
+P0245,Daniel Garcia,36,Female,Dengue,10/2/2024,10/11/2024,Dr. Werner,General Medicine,Whiteton,B-,No,39903,Under Treatment,General
+P0246,Rachel Sandoval,34,Female,Typhoid,3/1/2026,3/4/2026,Dr. Lopez,Cardiology,Port Davidville,A+,Yes,56998,Recovered,Semi-Private
+P0247,Jeffrey Payne,18,Male,Diabetes,5/1/2025,5/14/2025,Dr. Nelson,Endocrinology,Rogerfort,O-,Yes,18543,Under Treatment,General
+P0248,Allison Wheeler,6,Male,Heart Disease,1/17/2026,1/29/2026,Dr. Middleton,Infectious Disease,Valdezstad,A+,Yes,43742,Under Treatment,Private
+P0249,George Chung,74,Female,Dengue,1/7/2025,1/9/2025,Dr. Lewis,Cardiology,Davidchester,A-,No,29679,Recovered,General
+P0250,Nicole Goodman,43,Male,Asthma,8/12/2025,8/24/2025,Dr. Wolfe,Cardiology,South Jacob,O-,Yes,46345,Recovered,Semi-Private
+P0251,Crystal Hurst,74,Male,Dengue,6/30/2025,7/11/2025,Dr. Scott,Pulmonology,South Tina,O-,No,91911,Under Treatment,Semi-Private
+P0252,Dennis Webster,25,Male,Typhoid,9/25/2024,10/7/2024,Dr. Chen,General Medicine,Port Martin,A+,Yes,17069,Under Treatment,Private
+P0253,Christopher Malone,37,Female,Dengue,2/5/2025,2/13/2025,Dr. Woods,General Medicine,Port Stacy,B-,Yes,95400,Under Treatment,Semi-Private
+P0254,Sabrina Pittman,55,Male,Heart Disease,2/28/2026,3/13/2026,Dr. Valencia,Cardiology,Sandraport,A+,No,40892,Under Treatment,Semi-Private
+P0255,Peter Cameron,78,Female,Asthma,4/25/2025,4/28/2025,Dr. Henry,Cardiology,New Mikayla,B+,No,76355,Recovered,Private
+P0256,Jacob Cooper,84,Female,Hypertension,1/28/2025,2/12/2025,Dr. Turner,Cardiology,Wadehaven,O-,Yes,63827,Under Treatment,Semi-Private
+P0257,Dr. Tracy Hubbard,23,Female,Typhoid,3/15/2025,3/21/2025,Dr. Taylor,Cardiology,Timothyport,O-,Yes,76119,Under Treatment,Semi-Private
+P0258,Nicole Johnson,69,Female,Diabetes,11/19/2024,11/25/2024,Dr. Reyes,Cardiology,Jodiport,A-,No,94487,Recovered,Semi-Private
+P0259,Michelle Ayers,37,Female,Malaria,6/24/2024,6/29/2024,Dr. Graham,General Medicine,Lake Jamieview,A-,Yes,81951,Recovered,Semi-Private
+P0260,Jordan Weaver,34,Male,Heart Disease,7/21/2025,7/31/2025,Dr. Stewart,Cardiology,Estesstad,O+,Yes,10441,Under Treatment,Semi-Private
+P0261,Joseph Hickman,75,Male,Asthma,7/29/2025,8/6/2025,Dr. Moran,Infectious Disease,Gileschester,AB+,Yes,53605,Recovered,General
+P0262,Nancy Johnson,72,Male,Diabetes,1/26/2025,1/28/2025,Dr. Munoz,Pulmonology,Loweryshire,B-,No,78230,Under Treatment,Private
+P0263,Samuel Stone,24,Male,COVID-19,1/9/2026,1/13/2026,Dr. Acosta,Infectious Disease,North Nicholaston,O-,No,72237,Under Treatment,General
+P0264,Michael Carroll,53,Male,Malaria,3/19/2025,3/29/2025,Dr. Mccormick,Pulmonology,Christopherfurt,O+,Yes,25471,Under Treatment,General
+P0265,Victoria Cohen,16,Male,Hypertension,1/12/2025,1/21/2025,Dr. Clark,Pulmonology,West Scott,B-,Yes,67326,Recovered,General
+P0266,Marie Lynch,54,Female,Diabetes,8/9/2025,8/17/2025,Dr. Nunez,Infectious Disease,Newmanhaven,B-,Yes,39773,Recovered,General
+P0267,Sharon Maldonado,41,Male,Hypertension,12/16/2024,12/22/2024,Dr. Wood,Endocrinology,North Michael,O+,Yes,41038,Recovered,Private
+P0268,Amanda Vasquez,49,Male,COVID-19,12/2/2025,12/3/2025,Dr. Weaver,Infectious Disease,Port Diane,O+,Yes,12563,Under Treatment,Private
+P0269,Curtis Schaefer,72,Female,Diabetes,9/3/2024,9/5/2024,Dr. Hunter,Endocrinology,Port Nicholastown,O+,No,81008,Under Treatment,Private
+P0270,Craig Barker,90,Female,Asthma,8/1/2024,8/5/2024,Dr. Brooks,Endocrinology,Port Alexandra,A-,No,27631,Recovered,General
+P0271,Rebecca Taylor,59,Male,Typhoid,4/12/2026,4/26/2026,Dr. Morgan,General Medicine,South Isaiah,O-,No,59706,Recovered,Private
+P0272,Melanie Martinez,53,Female,Typhoid,7/23/2024,7/24/2024,Dr. Lynn,Endocrinology,East Patrick,AB-,No,85987,Recovered,General
+P0273,Cody Hamilton,5,Male,Dengue,6/8/2025,6/16/2025,Dr. Lopez,General Medicine,North David,AB-,No,80768,Recovered,General
+P0274,Mrs. Denise Keller,37,Male,Hypertension,1/19/2026,1/26/2026,Dr. Collins,Endocrinology,Lake Lindseyview,AB+,No,11967,Under Treatment,Semi-Private
+P0275,Linda Allen,66,Male,Hypertension,3/26/2026,3/30/2026,Dr. Reed,General Medicine,New Richard,A-,No,52902,Recovered,Semi-Private
+P0276,Paige Brown,26,Female,COVID-19,9/7/2024,9/11/2024,Dr. Johns,General Medicine,East Christy,B+,No,65539,Under Treatment,General
+P0277,James Anderson,35,Female,COVID-19,7/14/2024,7/26/2024,Dr. Pena,Cardiology,West Anthonyhaven,O+,Yes,33270,Under Treatment,General
+P0278,Dawn Peters,66,Male,Dengue,5/2/2026,5/10/2026,Dr. Sutton,Infectious Disease,Arellanoton,O+,Yes,38341,Under Treatment,Semi-Private
+P0279,Leslie Mcmahon,31,Male,Malaria,1/22/2026,2/2/2026,Dr. Nicholson,General Medicine,Timothybury,B-,Yes,74825,Under Treatment,General
+P0280,Barry Graham,35,Male,Heart Disease,1/28/2025,2/3/2025,Dr. Cobb,Cardiology,South Monicabury,A-,Yes,25986,Under Treatment,Private
+P0281,Dana Thomas,49,Female,Heart Disease,3/29/2025,3/30/2025,Dr. Coleman,General Medicine,Laneshire,B-,Yes,37281,Under Treatment,Private
+P0282,Alec Williams,38,Female,Asthma,5/18/2025,5/29/2025,Dr. Lambert,Infectious Disease,Orrchester,AB+,No,83321,Under Treatment,Private
+P0283,Jane Henderson,66,Male,Diabetes,11/14/2025,11/16/2025,Dr. Hoffman,General Medicine,New Samantha,O+,No,58724,Recovered,Semi-Private
+P0284,Latoya Barnes,79,Male,Typhoid,6/26/2024,7/3/2024,Dr. Edwards,Cardiology,Wendystad,O+,No,56467,Recovered,General
+P0285,Jonathan Hooper,13,Female,Typhoid,3/14/2025,3/27/2025,Dr. Gaines,General Medicine,Clarkmouth,A+,Yes,32502,Recovered,Semi-Private
+P0286,Michael Mendez,37,Male,COVID-19,10/20/2024,11/3/2024,Dr. James,Infectious Disease,New Paul,B+,No,96902,Under Treatment,General
+P0287,Andrew Coleman,18,Male,Diabetes,3/9/2025,3/19/2025,Dr. Coffey,Cardiology,Alexandraport,A+,No,88115,Recovered,Private
+P0288,Mr. Paul Greer DVM,63,Female,Dengue,7/8/2024,7/18/2024,Dr. Roberts,Cardiology,Comptonchester,AB-,Yes,34619,Under Treatment,General
+P0289,Ronald Thompson,57,Female,Heart Disease,10/24/2025,11/2/2025,Dr. Wallace,Pulmonology,West Jillland,AB+,Yes,49572,Recovered,Semi-Private
+P0290,Jennifer Thompson PhD,61,Male,Diabetes,11/9/2025,11/24/2025,Dr. Baker,Endocrinology,North Brenda,B+,No,68054,Recovered,Semi-Private
+P0291,Christy Perkins,17,Male,COVID-19,8/29/2025,9/10/2025,Dr. Vazquez,General Medicine,West Nicholasfort,B+,No,40384,Recovered,Private
+P0292,Timothy Simpson,34,Female,Heart Disease,8/16/2025,8/23/2025,Dr. King,General Medicine,South Nicholas,B-,No,73980,Recovered,Private
+P0293,Derek Morris,17,Male,Dengue,8/15/2024,8/18/2024,Dr. Kane,Pulmonology,Toddchester,AB+,Yes,59230,Recovered,Semi-Private
+P0294,Anthony Perry,16,Male,Heart Disease,5/5/2025,5/18/2025,Dr. Martinez,Pulmonology,Jenkinsberg,A+,Yes,42702,Under Treatment,General
+P0295,Logan Christian,4,Female,Typhoid,7/25/2024,7/29/2024,Dr. Chen,Cardiology,Davidville,AB-,No,74474,Recovered,Semi-Private
+P0296,Andrew Hernandez,14,Male,COVID-19,8/1/2025,8/16/2025,Dr. Villa,General Medicine,West Jamesburgh,A+,No,56870,Under Treatment,Private
+P0297,Jonathan Garrett,77,Male,COVID-19,8/20/2025,9/1/2025,Dr. Harris,Cardiology,North Codyburgh,B+,No,82665,Under Treatment,Private
+P0298,Austin Bryant,5,Male,Diabetes,2/22/2026,3/8/2026,Dr. Jones,Pulmonology,Port Yolandatown,A-,No,69200,Under Treatment,Semi-Private
+P0299,Charles Walker,36,Female,Dengue,4/11/2025,4/16/2025,Dr. Gardner,General Medicine,Austinport,A+,Yes,35423,Recovered,General
+P0300,Vincent Peterson,28,Female,COVID-19,11/3/2024,11/11/2024,Dr. Martinez,Cardiology,Martineztown,A-,Yes,89278,Recovered,General
+P0301,Samuel Reynolds,54,Male,Heart Disease,9/5/2024,9/12/2024,Dr. Chen,Pulmonology,Dianastad,B-,Yes,26295,Recovered,General
+P0302,Sara Ware,24,Male,Hypertension,7/29/2024,8/7/2024,Dr. Roy,Endocrinology,Emilymouth,B-,No,10671,Under Treatment,Semi-Private
+P0303,Rebecca Griffin,57,Male,Malaria,3/15/2025,3/29/2025,Dr. Williams,Pulmonology,Wilsonshire,O-,Yes,87135,Recovered,General
+P0304,Michael Cox,75,Female,Heart Disease,12/28/2024,1/2/2025,Dr. Proctor,Cardiology,South Davidfort,A-,No,48563,Under Treatment,Private
+P0305,Douglas Jenkins,58,Female,COVID-19,4/14/2025,4/26/2025,Dr. Smith,Cardiology,North Stacey,AB-,No,7635,Recovered,Private
+P0306,Nicole Bullock,45,Female,Hypertension,2/6/2026,2/11/2026,Dr. Jones,Endocrinology,South Tiffanybury,AB-,No,82640,Under Treatment,Semi-Private
+P0307,Elizabeth Davis,10,Female,Malaria,1/27/2026,1/31/2026,Dr. Young,Endocrinology,Kimberlyberg,O+,No,10080,Recovered,Private
+P0308,Eddie Phillips,30,Female,COVID-19,1/9/2025,1/16/2025,Dr. Brooks,Pulmonology,West Richardchester,AB-,No,83223,Recovered,Private
+P0309,Jason Taylor,55,Female,Diabetes,2/23/2026,3/1/2026,Dr. Clark,Infectious Disease,Melissafurt,B+,Yes,87131,Recovered,Private
+P0310,Stephanie Davis,50,Male,Dengue,1/4/2026,1/18/2026,Dr. White,Pulmonology,South Brianstad,AB-,Yes,25824,Recovered,General
+P0311,Brittany Lee,29,Male,Heart Disease,11/1/2024,11/6/2024,Dr. Casey,Pulmonology,North Charles,O+,Yes,97279,Recovered,Private
+P0312,Angela Horton,3,Male,Asthma,8/10/2025,8/19/2025,Dr. Morris,Pulmonology,Lauramouth,AB-,Yes,30989,Under Treatment,Private
+P0313,Dr. Sarah Cabrera,44,Male,COVID-19,4/1/2026,4/15/2026,Dr. Roberts,Infectious Disease,Courtneytown,O+,Yes,64893,Under Treatment,Private
+P0314,Hector Duffy,57,Male,Asthma,6/19/2024,6/20/2024,Dr. Villa,Endocrinology,Josephfort,A-,No,92148,Under Treatment,General
+P0315,Brett Jones,82,Male,Hypertension,10/22/2025,11/5/2025,Dr. Ellis,Pulmonology,New Alexis,AB-,No,79188,Recovered,Private
+P0316,Donna Briggs,22,Male,Asthma,8/29/2024,9/2/2024,Dr. Caldwell,Endocrinology,East Teresafurt,B-,Yes,86947,Recovered,Private
+P0317,Scott Williams,55,Male,Diabetes,9/11/2024,9/14/2024,Dr. Mora,General Medicine,Jenniferfort,A-,Yes,73480,Recovered,Private
+P0318,Kevin Barrera,82,Male,Asthma,4/18/2026,5/2/2026,Dr. Kennedy,General Medicine,Davisport,O+,Yes,14003,Under Treatment,General
+P0319,Lance Patel,13,Female,Malaria,1/10/2025,1/25/2025,Dr. Brown,Endocrinology,Port Bobby,O-,No,14398,Under Treatment,Private
+P0320,George Randall,78,Male,COVID-19,7/29/2025,8/1/2025,Dr. Wells,Pulmonology,Lake Cindy,AB-,No,56239,Under Treatment,General
+P0321,Joseph Stein,57,Female,Typhoid,1/3/2025,1/10/2025,Dr. Mathis,Infectious Disease,Nicholaschester,A+,No,90586,Under Treatment,Private
+P0322,Mrs. Tina Rodriguez,18,Male,Hypertension,10/23/2025,11/1/2025,Dr. Griffin,Pulmonology,Christophermouth,AB+,Yes,98172,Under Treatment,General
+P0323,Tracey Ferguson,14,Female,Typhoid,5/27/2025,6/3/2025,Dr. Trujillo,Cardiology,Deannaton,B-,No,76073,Recovered,Semi-Private
+P0324,Julia Odonnell,62,Male,COVID-19,12/28/2024,1/5/2025,Dr. Fernandez,Endocrinology,Walterstad,A-,Yes,9761,Under Treatment,Semi-Private
+P0325,Kim Santiago,11,Female,Malaria,10/30/2025,11/11/2025,Dr. George,Cardiology,Mathismouth,O-,Yes,65873,Recovered,Semi-Private
+P0326,Sean Mcmahon,75,Female,Heart Disease,1/8/2025,1/23/2025,Dr. Hernandez,Cardiology,East Donnabury,B-,Yes,93617,Recovered,Private
+P0327,Colleen Downs,32,Male,Hypertension,1/13/2026,1/18/2026,Dr. Lewis,Infectious Disease,Lake Timothyland,A-,Yes,97499,Under Treatment,Private
+P0328,Matthew Hill,10,Female,Heart Disease,12/16/2024,12/28/2024,Dr. Newman,General Medicine,Williamsside,B+,No,27065,Recovered,Private
+P0329,Thomas Morgan,30,Male,COVID-19,8/12/2025,8/20/2025,Dr. Riley,Pulmonology,East Maryburgh,AB+,Yes,30490,Recovered,Semi-Private
+P0330,Johnny Harris,32,Female,Typhoid,4/5/2026,4/8/2026,Dr. Johnson,Infectious Disease,Port Sandraville,O+,No,63271,Under Treatment,Semi-Private
+P0331,Jerry Francis,35,Female,COVID-19,3/4/2025,3/17/2025,Dr. Woods,Endocrinology,Olsonfort,A-,Yes,14806,Recovered,Private
+P0332,Patricia Vazquez,74,Female,Heart Disease,4/29/2025,5/4/2025,Dr. Palmer,Cardiology,Floresport,A+,Yes,88282,Recovered,Private
+P0333,Zachary Bates,58,Female,COVID-19,8/8/2025,8/11/2025,Dr. Johnson,Endocrinology,Greenberg,B+,No,10019,Recovered,Private
+P0334,Leonard Smith,53,Female,Dengue,10/5/2024,10/19/2024,Dr. Malone,General Medicine,North Curtis,A-,No,85176,Under Treatment,Semi-Private
+P0335,Tony Hawkins,73,Female,Heart Disease,6/28/2024,7/9/2024,Dr. Williams,Cardiology,West Abigailbury,B+,No,47268,Under Treatment,General
+P0336,Kelly Cruz,70,Male,Malaria,12/2/2024,12/6/2024,Dr. Jones,Endocrinology,Alvaradohaven,AB+,Yes,91194,Recovered,Private
+P0337,Cindy Osborne,30,Female,Diabetes,8/22/2025,8/23/2025,Dr. Ray,Cardiology,Robertoshire,B+,Yes,22097,Recovered,General
+P0338,Michael Watson,54,Male,Malaria,7/7/2025,7/17/2025,Dr. Johnson,Pulmonology,East Emilyland,AB+,No,61599,Recovered,General
+P0339,Brian Johnson,16,Female,Diabetes,4/28/2026,5/9/2026,Dr. Lopez,Endocrinology,Paulside,AB-,Yes,87471,Recovered,Private
+P0340,Michael Sims,27,Male,Heart Disease,2/15/2025,2/17/2025,Dr. Sullivan,Endocrinology,Port Thomasstad,AB-,Yes,75815,Under Treatment,General
+P0341,Elizabeth Morales,58,Male,Heart Disease,6/17/2025,7/2/2025,Dr. Woods,Endocrinology,Rodriguezhaven,B+,Yes,57827,Under Treatment,Semi-Private
+P0342,Lisa Butler,65,Male,Heart Disease,12/11/2024,12/12/2024,Dr. Johnson,General Medicine,Dannybury,AB-,No,27533,Recovered,Private
+P0343,Megan Bauer,90,Female,Hypertension,12/6/2024,12/11/2024,Dr. Torres,Cardiology,Robinfort,AB+,Yes,39111,Recovered,Private
+P0344,Julie Davis,68,Male,Asthma,11/8/2024,11/19/2024,Dr. Phillips,Infectious Disease,Shawburgh,B+,No,18975,Recovered,General
+P0345,Cynthia Noble DVM,6,Female,Diabetes,9/10/2024,9/20/2024,Dr. Taylor,Pulmonology,West Brendastad,O+,Yes,79103,Recovered,Private
+P0346,Michael Ayers,82,Female,Hypertension,10/28/2024,11/8/2024,Dr. Goodman,General Medicine,Port Shellyton,O-,No,45035,Recovered,General
+P0347,Leroy Perez,56,Male,Hypertension,3/23/2025,4/6/2025,Dr. Palmer,Pulmonology,Sandratown,A+,No,87056,Recovered,Private
+P0348,Terry Hoffman,75,Female,Asthma,6/1/2025,6/15/2025,Dr. Ramos,General Medicine,West Rhondamouth,B+,No,43717,Under Treatment,General
+P0349,William Andrews,53,Female,Hypertension,6/18/2025,7/1/2025,Dr. Mcguire,Infectious Disease,Hallville,B-,Yes,51050,Under Treatment,Private
+P0350,Beth Khan,77,Female,Malaria,11/24/2025,12/4/2025,Dr. Lang,Pulmonology,East Shawn,AB-,No,73951,Recovered,Private
+P0351,Rachel Garcia,33,Female,Asthma,7/15/2024,7/22/2024,Dr. Cook,Infectious Disease,East Jeremy,A+,Yes,73403,Recovered,General
+P0352,Mark Carrillo,14,Male,Hypertension,5/7/2025,5/11/2025,Dr. Campbell,Pulmonology,New Erin,B-,No,39952,Recovered,General
+P0353,Adam Noble,4,Male,Hypertension,2/14/2026,2/24/2026,Dr. Black,Cardiology,Fernandezburgh,B+,No,24209,Under Treatment,Semi-Private
+P0354,Jeremy Webb,43,Female,COVID-19,2/27/2025,3/10/2025,Dr. Turner,Pulmonology,Wilsonfort,O-,No,47556,Recovered,Private
+P0355,Marcus Marquez,1,Male,Typhoid,8/28/2024,9/4/2024,Dr. Brown,Cardiology,Lake Kristy,A-,No,36006,Recovered,Private
+P0356,Cristina Greer,18,Male,Hypertension,1/13/2026,1/16/2026,Dr. Benton,Cardiology,New Robert,O-,No,39522,Recovered,Semi-Private
+P0357,Isaac Berg,88,Female,Diabetes,6/5/2026,6/18/2026,Dr. Brewer,Endocrinology,Garciabury,A-,No,47359,Recovered,Private
+P0358,Lisa Butler,18,Male,Diabetes,12/31/2025,1/4/2026,Dr. Roberts,Infectious Disease,Wrightshire,A+,Yes,26826,Recovered,Semi-Private
+P0359,Cynthia Sanders,86,Female,Dengue,11/17/2025,11/27/2025,Dr. Vega,Pulmonology,New Toniport,B+,Yes,90385,Under Treatment,Private
+P0360,Amber Martin,14,Male,Asthma,3/18/2026,3/21/2026,Dr. Harris,Pulmonology,East Marcusville,AB+,Yes,6411,Recovered,General
+P0361,Robert Taylor,35,Male,Malaria,6/2/2025,6/12/2025,Dr. Spencer,Endocrinology,Reedtown,O-,Yes,88188,Recovered,Semi-Private
+P0362,Jordan Davis,43,Female,Heart Disease,9/28/2025,10/6/2025,Dr. Guerra,Infectious Disease,Whitechester,O-,No,88180,Recovered,Semi-Private
+P0363,Sean Smith,45,Male,Malaria,10/18/2025,10/21/2025,Dr. Smith,Endocrinology,East Crystalton,AB+,Yes,32657,Under Treatment,General
+P0364,Krista Savage,41,Female,Heart Disease,12/10/2025,12/24/2025,Dr. Small,Endocrinology,East Danielmouth,A+,No,94027,Under Treatment,General
+P0365,Dawn Hensley,36,Female,Asthma,7/2/2024,7/3/2024,Dr. Morales,Endocrinology,North Stephanieshire,AB+,No,72860,Under Treatment,Private
+P0366,Julia Guerra,87,Male,Malaria,12/14/2025,12/18/2025,Dr. Patrick,Cardiology,Morrisonborough,O-,Yes,70104,Recovered,Semi-Private
+P0367,Sara Bell,17,Female,COVID-19,1/1/2026,1/10/2026,Dr. Arnold,General Medicine,Port Sydneyland,O+,No,34809,Under Treatment,Semi-Private
+P0368,Joshua Edwards,14,Female,Dengue,3/31/2025,4/4/2025,Dr. Palmer,Pulmonology,West Sarahstad,AB-,No,68877,Under Treatment,Private
+P0369,Sandra Anderson,34,Male,Typhoid,3/16/2026,3/24/2026,Dr. May,General Medicine,Lake Nancystad,O-,Yes,7751,Under Treatment,Private
+P0370,Phillip Gordon,51,Male,Heart Disease,12/4/2024,12/9/2024,Dr. Young,Cardiology,Carterside,A-,Yes,50083,Recovered,Private
+P0371,Brandi Lambert,56,Female,Dengue,2/21/2025,3/2/2025,Dr. Fry,Pulmonology,East Alexis,A+,Yes,61849,Under Treatment,Private
+P0372,Susan Russell,77,Male,Asthma,6/16/2025,6/29/2025,Dr. Browning,Endocrinology,Lake Jennifer,O+,Yes,39829,Recovered,Semi-Private
+P0373,Dr. Aaron Simmons,79,Female,COVID-19,2/19/2026,3/3/2026,Dr. Gutierrez,Pulmonology,Robertborough,A-,Yes,33853,Under Treatment,General
+P0374,Kelly Brown,77,Male,Hypertension,6/18/2024,7/3/2024,Dr. Rivers,Cardiology,Lake Karenshire,AB-,No,28694,Recovered,Private
+P0375,Emma Herman,64,Female,Heart Disease,11/25/2025,12/6/2025,Dr. Trujillo,General Medicine,West Christophertown,O+,No,23892,Recovered,Semi-Private
+P0376,Audrey Jackson,89,Male,Heart Disease,2/14/2026,2/24/2026,Dr. Salas,Cardiology,Edwardsburgh,B-,Yes,77686,Under Treatment,General
+P0377,Mr. Xavier Taylor,83,Male,COVID-19,3/9/2025,3/11/2025,Dr. Johnson,Pulmonology,Danielbury,AB+,Yes,40541,Under Treatment,Semi-Private
+P0378,Karen Collins,55,Female,Dengue,10/30/2024,11/2/2024,Dr. Carroll,Cardiology,Ronaldbury,A-,Yes,55001,Recovered,Semi-Private
+P0379,Ellen Nunez,37,Female,Heart Disease,8/25/2024,9/1/2024,Dr. Duncan,General Medicine,South Terristad,O+,No,59909,Under Treatment,Private
+P0380,Jon Berg,47,Male,Dengue,2/6/2026,2/8/2026,Dr. Dickerson,Endocrinology,Davismouth,AB+,Yes,61053,Under Treatment,General
+P0381,Steven Haynes,10,Female,Asthma,6/11/2025,6/15/2025,Dr. Obrien,Infectious Disease,Davisside,B-,No,26770,Under Treatment,General
+P0382,Elizabeth Chase,23,Female,Heart Disease,10/13/2025,10/16/2025,Dr. Thomas,Endocrinology,Arianamouth,AB-,No,58396,Recovered,General
+P0383,Jacqueline Flynn,6,Female,Heart Disease,7/4/2024,7/14/2024,Dr. Lane,Infectious Disease,North Maxwellville,AB+,Yes,19371,Recovered,Private
+P0384,Jennifer Brewer,83,Female,Malaria,9/16/2025,9/21/2025,Dr. Cooper,Endocrinology,East Heather,A+,No,18334,Recovered,Semi-Private
+P0385,Catherine Garcia,87,Male,Diabetes,8/3/2024,8/16/2024,Dr. Bailey,General Medicine,Brownland,A-,No,24261,Recovered,General
+P0386,John Mccullough,65,Female,Hypertension,4/7/2026,4/11/2026,Dr. Morales,Cardiology,South Elizabethmouth,B+,No,41763,Recovered,Private
+P0387,Matthew Hill,8,Male,Heart Disease,12/21/2025,12/24/2025,Dr. Burke,Pulmonology,Lake Michael,AB-,No,60542,Under Treatment,Semi-Private
+P0388,Michelle Caldwell,33,Male,COVID-19,10/18/2024,11/1/2024,Dr. Tapia,Pulmonology,Donaldland,AB-,No,45424,Recovered,General
+P0389,Geoffrey Stephens,57,Female,Heart Disease,8/6/2024,8/19/2024,Dr. Andrade,General Medicine,North Phillip,B-,Yes,84616,Under Treatment,Semi-Private
+P0390,Emily Morales,65,Male,Heart Disease,12/2/2024,12/16/2024,Dr. Rodriguez,Cardiology,East Caseymouth,B-,No,15137,Under Treatment,Semi-Private
+P0391,Derek Jackson,90,Female,COVID-19,7/8/2025,7/12/2025,Dr. Franklin,Endocrinology,Michaeltown,AB+,Yes,14499,Recovered,Private
+P0392,James Livingston,59,Female,Heart Disease,9/18/2025,10/3/2025,Dr. Ruiz,General Medicine,South Franciscofort,B-,Yes,93227,Recovered,Semi-Private
+P0393,Michael Thompson,7,Female,Dengue,2/7/2025,2/11/2025,Dr. Fox,Cardiology,New Justinshire,B-,No,25801,Recovered,General
+P0394,Kenneth Mcclain,63,Female,Diabetes,3/31/2025,4/14/2025,Dr. Sanchez,Pulmonology,Port Debraton,B+,No,23753,Recovered,General
+P0395,Ashley Pena,70,Female,Dengue,7/6/2024,7/9/2024,Dr. Dickerson,General Medicine,Willisburgh,AB+,No,84621,Under Treatment,General
+P0396,Andrew Barrett,24,Male,Hypertension,7/3/2025,7/10/2025,Dr. Anderson,General Medicine,South Davidside,B-,Yes,29238,Under Treatment,Private
+P0397,Tanya Rivas DDS,70,Male,Asthma,9/20/2024,9/23/2024,Dr. Jenkins,Endocrinology,Davidtown,B+,Yes,14624,Recovered,Private
+P0398,Michelle Herrera,85,Male,Typhoid,9/16/2025,10/1/2025,Dr. Henderson,Infectious Disease,South Davidfurt,AB-,Yes,95155,Recovered,Private
+P0399,Caleb Coleman,89,Female,Diabetes,2/15/2025,2/25/2025,Dr. Ward,Endocrinology,Brookefort,O-,Yes,60008,Recovered,Private
+P0400,Rachel Thompson,90,Female,Typhoid,5/27/2026,5/31/2026,Dr. Gomez,Pulmonology,Smithburgh,AB+,No,87811,Recovered,Private
+P0401,Anthony Williams,77,Female,Typhoid,2/16/2026,2/23/2026,Dr. Franco,Endocrinology,Molinaborough,AB+,No,79384,Recovered,Semi-Private
+P0402,Alex Alvarado,62,Male,Dengue,9/3/2025,9/17/2025,Dr. Brown,Endocrinology,East Monicaside,AB-,Yes,25771,Under Treatment,General
+P0403,James Young,47,Female,Diabetes,7/15/2025,7/26/2025,Dr. Davis,Endocrinology,Pattersonmouth,AB+,Yes,86553,Recovered,General
+P0404,Rebecca Bowman,53,Male,COVID-19,2/17/2025,3/3/2025,Dr. Smith,General Medicine,West Rachelmouth,A+,No,99618,Recovered,Private
+P0405,Michael Keller,17,Male,Diabetes,5/8/2026,5/21/2026,Dr. Cox,Pulmonology,Wandaville,O+,Yes,40315,Under Treatment,General
+P0406,Daniel Valenzuela,39,Male,Typhoid,1/11/2026,1/14/2026,Dr. George,Endocrinology,Shannonborough,O+,No,24034,Recovered,Private
+P0407,Amber Freeman,8,Male,Heart Disease,4/8/2025,4/17/2025,Dr. Rhodes,Pulmonology,Davidfort,O+,Yes,78130,Recovered,Semi-Private
+P0408,Penny Roth,49,Male,Hypertension,8/11/2024,8/21/2024,Dr. Cook,Infectious Disease,Martinside,A+,No,63914,Under Treatment,Semi-Private
+P0409,John Griffin,30,Male,Malaria,2/4/2026,2/14/2026,Dr. Mcdonald,Cardiology,Gibsonmouth,AB-,No,40960,Under Treatment,General
+P0410,Jamie Mejia,64,Male,Malaria,6/11/2026,6/23/2026,Dr. Avery,Cardiology,Jonesland,O-,No,37961,Recovered,Private
+P0411,Justin Dunlap,60,Female,Typhoid,4/14/2025,4/18/2025,Dr. Weber,Pulmonology,Sethmouth,B+,Yes,31722,Recovered,General
+P0412,Ricky Chavez,50,Male,Hypertension,4/27/2026,4/29/2026,Dr. Bradley,Infectious Disease,Pittmantown,O+,No,27147,Under Treatment,Semi-Private
+P0413,Felicia Crawford,60,Female,Typhoid,10/16/2025,10/24/2025,Dr. Velez,Pulmonology,West Anthonyburgh,B+,No,35460,Under Treatment,General
+P0414,Gabrielle Johnson,27,Female,Malaria,8/10/2025,8/19/2025,Dr. Byrd,Endocrinology,Port Peter,A-,No,97049,Under Treatment,Private
+P0415,Tony Wright,74,Female,Diabetes,12/20/2024,12/28/2024,Dr. Levy,Pulmonology,New Sheila,B-,No,11543,Recovered,General
+P0416,Eric Patel,33,Male,Diabetes,8/11/2025,8/15/2025,Dr. Lopez,Endocrinology,Maymouth,B+,Yes,34418,Recovered,Private
+P0417,Alexandra Moss,15,Female,Dengue,3/3/2026,3/18/2026,Dr. Ballard,Pulmonology,Katherineview,A+,No,49584,Recovered,Private
+P0418,Robert Adams,82,Male,Hypertension,9/18/2025,9/27/2025,Dr. Barber,General Medicine,Rodriguezberg,A-,No,21038,Under Treatment,Private
+P0419,Stephen Elliott,47,Female,Typhoid,7/30/2025,8/9/2025,Dr. Clark,Pulmonology,Howestad,O+,Yes,57256,Recovered,Private
+P0420,Kevin Hicks,25,Female,Dengue,3/10/2025,3/19/2025,Dr. Wilson,Endocrinology,Chadshire,AB-,No,13217,Recovered,Private
+P0421,Virginia Bennett,81,Male,Dengue,5/30/2026,6/9/2026,Dr. Lopez,Infectious Disease,New Deborahberg,O+,No,37871,Recovered,Semi-Private
+P0422,Dustin Baker,59,Female,Typhoid,5/13/2025,5/18/2025,Dr. Hernandez,Pulmonology,West Melissatown,AB-,No,30817,Recovered,Private
+P0423,Phillip Harrell,82,Female,COVID-19,4/28/2026,5/10/2026,Dr. Medina,Endocrinology,Port Martin,O+,No,92780,Under Treatment,Private
+P0424,Lisa King,78,Male,Malaria,1/24/2025,1/25/2025,Dr. Dyer,General Medicine,Myersborough,B-,No,25903,Recovered,Private
+P0425,Jonathan Love,60,Male,Heart Disease,1/18/2026,1/25/2026,Dr. Terrell,General Medicine,Cooperside,A-,No,17148,Recovered,General
+P0426,Laurie Mendoza,28,Male,Asthma,4/13/2026,4/27/2026,Dr. Flores,General Medicine,Scottton,A-,Yes,75439,Under Treatment,Private
+P0427,Lauren Neal,63,Male,Typhoid,1/28/2026,1/29/2026,Dr. Ross,General Medicine,Carolineberg,B-,No,65176,Under Treatment,Semi-Private
+P0428,Clinton Munoz,79,Female,Malaria,1/27/2026,2/11/2026,Dr. Fields,Cardiology,Wallsmouth,AB-,No,20279,Under Treatment,General
+P0429,Gary Collins,27,Male,Diabetes,11/14/2025,11/28/2025,Dr. Payne,Cardiology,Meyertown,B+,Yes,87550,Recovered,Semi-Private
+P0430,Sarah Hicks,14,Male,Dengue,7/4/2024,7/14/2024,Dr. Thomas,General Medicine,Carterchester,AB-,No,51777,Recovered,General
+P0431,Gary Martin,36,Female,Dengue,8/15/2024,8/28/2024,Dr. Nicholson,Infectious Disease,Danielmouth,AB-,Yes,17205,Under Treatment,General
+P0432,Michelle Graham,71,Male,Heart Disease,8/3/2024,8/4/2024,Dr. Hubbard,Infectious Disease,North Ralph,B+,No,70959,Recovered,General
+P0433,Connie Mack,21,Male,Asthma,12/31/2024,1/9/2025,Dr. Perez,Endocrinology,Mitchellville,O+,No,79108,Under Treatment,Semi-Private
+P0434,Amy Davis,9,Male,Dengue,7/21/2025,8/4/2025,Dr. Howe,General Medicine,Lake Stephanieside,A-,No,45905,Under Treatment,Private
+P0435,Elizabeth Mccoy,41,Male,Typhoid,6/24/2025,7/3/2025,Dr. Smith,General Medicine,Ronaldberg,O+,Yes,80211,Recovered,Semi-Private
+P0436,Aaron Miller,6,Male,Malaria,3/9/2026,3/23/2026,Dr. Rowland,Endocrinology,Kaitlynport,B+,No,19032,Under Treatment,Private
+P0437,Janice Harrison,66,Female,Heart Disease,6/24/2024,6/29/2024,Dr. Mullins,Pulmonology,Hahnton,AB-,No,71313,Under Treatment,General
+P0438,John Harvey,38,Female,Dengue,11/6/2024,11/13/2024,Dr. Schmidt,Infectious Disease,North Joanne,A+,Yes,32549,Under Treatment,Semi-Private
+P0439,Amy Ross,84,Male,Typhoid,9/25/2025,9/26/2025,Dr. Conner,Endocrinology,Katherineberg,AB+,No,96611,Recovered,Semi-Private
+P0440,Nathan Phillips,13,Male,Dengue,12/9/2025,12/15/2025,Dr. King,Pulmonology,Albertmouth,AB+,Yes,16492,Recovered,General
+P0441,Andrew Green,64,Male,Asthma,12/5/2024,12/18/2024,Dr. Rogers,General Medicine,Port Steveton,O-,No,54647,Under Treatment,Private
+P0442,Jessica Carter,25,Female,Dengue,9/7/2025,9/11/2025,Dr. Gonzalez,Cardiology,Garciaview,B-,Yes,50150,Recovered,General
+P0443,Brandon Thornton,61,Female,Malaria,4/6/2025,4/8/2025,Dr. Thompson,Pulmonology,Riversstad,A-,No,34092,Recovered,
+P0444,Ashley Ellison,10,Female,Asthma,4/28/2026,5/10/2026,Dr. Figueroa,Endocrinology,North Mark,B+,No,23904,Recovered,General
+P0445,Anna Boyle,11,Female,Diabetes,1/23/2025,1/26/2025,Dr. Cruz,Infectious Disease,Martinezchester,B+,No,23756,Recovered,Private
+P0446,Erin Rodriguez,90,Male,Hypertension,8/21/2025,9/4/2025,Dr. Burgess,General Medicine,Christopherton,O-,Yes,20520,Under Treatment,Private
+P0447,Jenny Wolfe,85,Female,Typhoid,8/21/2024,8/27/2024,Dr. Browning,Endocrinology,North Joshua,B+,No,76584,Under Treatment,Semi-Private
+P0448,Nathan Buchanan,72,Female,Typhoid,5/10/2026,5/23/2026,Dr. Green,Cardiology,Clarkview,A-,No,98000,Recovered,Private
+P0449,Adrienne Walsh,64,Female,Dengue,4/18/2025,4/20/2025,Dr. Perkins,Pulmonology,East Lisa,A+,Yes,42252,Recovered,General
+P0450,Shane Curtis,67,Female,COVID-19,4/9/2026,4/11/2026,Dr. Love,Endocrinology,Andersontown,O-,No,18479,Under Treatment,Private
+P0451,Kristi Wilson,17,Female,Malaria,10/18/2024,10/25/2024,Dr. Roth,Pulmonology,Lopezfurt,B+,No,83443,Recovered,Private
+P0452,Deborah Powers,73,Female,COVID-19,10/21/2025,10/28/2025,Dr. Jones,Endocrinology,Tammyshire,AB-,No,26349,Under Treatment,General
+P0453,Angela Nelson,87,Male,Malaria,5/30/2026,6/2/2026,Dr. Baker,Cardiology,Port Anthony,AB+,No,38890,Under Treatment,Semi-Private
+P0454,Samantha Snyder,72,Male,Dengue,6/19/2025,6/29/2025,Dr. Peters,Pulmonology,Port Stevenborough,B+,Yes,97145,Under Treatment,General
+P0455,Lauren Davis,30,Male,Typhoid,11/7/2025,11/22/2025,Dr. Robbins,Cardiology,East Stevenshire,A-,Yes,50669,Under Treatment,Semi-Private
+P0456,Kyle Hill,52,Female,Diabetes,1/20/2026,1/28/2026,Dr. Chambers,Pulmonology,East Tracichester,O-,No,30306,Recovered,General
+P0457,Fernando Andrews,35,Male,COVID-19,6/11/2026,6/15/2026,Dr. Norris,Infectious Disease,North Davestad,O+,No,91991,Under Treatment,Semi-Private
+P0458,Daniel Williams,34,Male,Dengue,4/4/2026,4/5/2026,Dr. Dorsey,Infectious Disease,East Kennethshire,O-,Yes,46597,Recovered,Semi-Private
+P0459,Daniel Smith,59,Female,Hypertension,5/22/2026,6/6/2026,Dr. Fisher,Infectious Disease,South Jasonshire,A-,Yes,56187,Recovered,Semi-Private
+P0460,Cory Vasquez,31,Male,Malaria,12/25/2025,12/29/2025,Dr. Johnson,General Medicine,Port Daniel,B+,No,44191,Under Treatment,Private
+P0461,David Anthony,88,Male,Hypertension,11/20/2025,12/3/2025,Dr. Kennedy,Infectious Disease,West Danielmouth,A-,Yes,99619,Under Treatment,Semi-Private
+P0462,Connie Munoz,84,Female,Diabetes,3/11/2025,3/13/2025,Dr. Wolfe,General Medicine,Billyside,O+,No,57367,Recovered,Semi-Private
+P0463,Lauren Moore,86,Female,COVID-19,7/10/2025,7/22/2025,Dr. Ingram,Pulmonology,Bakertown,A+,Yes,27702,Recovered,Semi-Private
+P0464,Rhonda Fuller,31,Female,Typhoid,8/1/2025,8/3/2025,Dr. Page,Cardiology,Anthonyfort,O-,Yes,96752,Under Treatment,General
+P0465,Lisa Daniels,87,Male,Heart Disease,12/12/2025,12/25/2025,Dr. Jordan,Pulmonology,West Lorrainefort,AB+,Yes,56913,Recovered,General
+P0466,Amy Navarro,68,Male,Heart Disease,5/27/2026,6/7/2026,Dr. Sullivan,General Medicine,Sanchezview,B-,No,5128,Under Treatment,General
+P0467,Gwendolyn Oneal,41,Female,Heart Disease,12/18/2024,12/25/2024,Dr. King,Cardiology,New Ashleyburgh,B+,Yes,42071,Recovered,General
+P0468,Teresa Zimmerman,59,Male,Typhoid,1/12/2026,1/19/2026,Dr. Smith,General Medicine,East Cindyland,A+,No,5722,Recovered,Semi-Private
+P0469,Christopher Nichols,22,Male,Diabetes,1/15/2025,1/29/2025,Dr. Cobb,Cardiology,Gonzalezton,O-,No,55508,Under Treatment,Semi-Private
+P0470,Kristin Harrison,40,Male,Dengue,11/1/2024,11/14/2024,Dr. Smith,General Medicine,Jasonville,A-,Yes,37406,Recovered,Private
+P0471,Ashley Mora,88,Male,Heart Disease,1/2/2026,1/14/2026,Dr. Herrera,Pulmonology,Lake Scott,B-,Yes,41544,Under Treatment,Private
+P0472,Lisa Butler,78,Female,COVID-19,5/7/2026,5/10/2026,Dr. Williams,General Medicine,South Darrellmouth,B+,No,67617,Recovered,Semi-Private
+P0473,Steve Sanders,69,Female,COVID-19,11/14/2024,11/21/2024,Dr. White,Infectious Disease,Loriport,AB+,Yes,78783,Recovered,General
+P0474,Rebecca Keith,45,Male,Malaria,5/15/2026,5/17/2026,Dr. Simmons,Endocrinology,Kimside,B+,No,66837,Recovered,Semi-Private
+P0475,Amanda Lewis,61,Male,Typhoid,6/18/2025,7/2/2025,Dr. Hammond,Pulmonology,Port Lisachester,A+,Yes,30463,Under Treatment,Semi-Private
+P0476,Kim Barber,25,Female,Diabetes,6/11/2026,6/13/2026,Dr. Cabrera,Pulmonology,Lawrenceport,AB+,No,34506,Recovered,Semi-Private
+P0477,Lisa Castillo,19,Male,Malaria,7/27/2025,8/10/2025,Dr. Collins,Pulmonology,East Caseyville,O-,Yes,95673,Recovered,General
+P0478,Mark Garcia,70,Female,Typhoid,3/28/2026,3/30/2026,Dr. Martinez,General Medicine,Andersonborough,AB+,No,88500,Under Treatment,Semi-Private
+P0479,Terry Jones,41,Male,COVID-19,10/14/2024,10/26/2024,Dr. Boyer,Cardiology,Cameronmouth,B+,No,91864,Under Treatment,Semi-Private
+P0480,Barbara Dougherty,64,Female,Heart Disease,7/7/2025,7/22/2025,Dr. Campos,Infectious Disease,East Alecbury,B-,Yes,33716,Under Treatment,Semi-Private
+P0481,Steven Dudley,86,Male,Asthma,11/24/2024,12/6/2024,Dr. Murray,General Medicine,Port Kendra,AB-,Yes,21766,Recovered,Private
+P0482,Felicia Fernandez,75,Male,Dengue,8/28/2024,9/6/2024,Dr. Kelley,Pulmonology,Michaelmouth,O-,Yes,81928,Recovered,Private
+P0483,Samuel Johnson,52,Male,Dengue,6/27/2024,7/4/2024,Dr. Wood,Pulmonology,Lake Robert,A-,Yes,69370,Recovered,Semi-Private
+P0484,Gary Miller,88,Male,Asthma,3/15/2026,3/19/2026,Dr. Richardson,Endocrinology,North Christopher,O+,No,41778,Under Treatment,Semi-Private
+P0485,Joseph Martinez,70,Male,Heart Disease,2/4/2025,2/10/2025,Dr. Ross,Cardiology,West Jamesfort,A-,Yes,85156,Under Treatment,General
+P0486,Matthew Blevins,9,Male,Heart Disease,6/8/2025,6/12/2025,Dr. Kelley,Endocrinology,South Charlesborough,A+,Yes,91556,Under Treatment,Semi-Private
+P0487,Sarah Turner,87,Female,Asthma,7/2/2024,7/11/2024,Dr. Little,Pulmonology,Lake Markhaven,B+,No,16947,Under Treatment,Semi-Private
+P0488,Kelsey Adams,78,Male,Asthma,7/23/2025,7/24/2025,Dr. Smith,General Medicine,West Traciberg,B-,No,63796,Recovered,Private
+P0489,Nicholas Schmidt,7,Female,Diabetes,12/7/2025,12/19/2025,Dr. Stevens,Endocrinology,North Michael,O+,No,44766,Under Treatment,Semi-Private
+P0490,Michaela Pratt,38,Female,Malaria,3/25/2025,4/7/2025,Dr. Williams,Infectious Disease,Lake Stephenton,B-,No,43981,Under Treatment,Private
+P0491,Sergio Campbell,18,Female,Typhoid,9/23/2024,10/6/2024,Dr. Baird,General Medicine,East Juliaport,A-,Yes,14987,Under Treatment,Semi-Private
+P0492,Kelly Mcmahon,53,Male,Malaria,6/9/2026,6/13/2026,Dr. Martinez,General Medicine,Dariusmouth,A-,Yes,62172,Under Treatment,General
+P0493,David Fowler,60,Male,Asthma,6/8/2025,6/20/2025,Dr. Rodriguez,General Medicine,East David,A+,Yes,65976,Under Treatment,Private
+P0494,Amanda Torres,27,Female,Dengue,5/1/2025,5/13/2025,Dr. Brown,Pulmonology,Charlesfort,B-,Yes,23823,Recovered,Semi-Private
+P0495,Michelle Potter,28,Female,Hypertension,6/9/2025,6/15/2025,Dr. Palmer,Cardiology,Doylemouth,O-,Yes,31520,Recovered,Private
+P0496,Ryan Sims,39,Male,Heart Disease,8/20/2024,8/23/2024,Dr. Perez,Pulmonology,New Jamesmouth,AB+,Yes,99500,Recovered,Semi-Private
+P0497,Earl Richardson,67,Male,Hypertension,11/9/2024,11/17/2024,Dr. Johnson,Endocrinology,Greenmouth,A-,No,94977,Under Treatment,Private
+P0498,Joann Campbell,52,Female,Malaria,8/29/2025,9/1/2025,Dr. Crawford,General Medicine,North Anthonyhaven,AB+,No,67334,Under Treatment,General
+P0499,Shelia Perez,54,Female,Asthma,7/8/2025,7/17/2025,Dr. Duran,Infectious Disease,Danielleport,B-,Yes,38774,Recovered,General
+P0500,Wyatt Perkins,73,Male,Hypertension,7/2/2025,7/14/2025,Dr. Sims,General Medicine,Alvaradoburgh,A-,No,48770,Under Treatment,Semi-Private
+P0501,Scott Ellis,10,Female,Asthma,1/18/2026,1/25/2026,Dr. Price,,East Gregory,A+,No,64892,Recovered,General
+P0502,Jerome Roth,75,Male,COVID-19,7/4/2025,7/10/2025,Dr. Martin,General Medicine,Jamesbury,B-,No,10792,Recovered,Private
+P0503,Brenda Beck,36,Male,Heart Disease,7/23/2025,7/26/2025,Dr. Wade,Cardiology,Lake Kenneth,B-,Yes,20828,Under Treatment,General
+P0504,Steven Gomez,33,Female,Hypertension,2/13/2026,2/28/2026,Dr. Clarke,General Medicine,Gilltown,AB-,No,7429,Recovered,General
+P0505,Adam Mcpherson,48,Male,Malaria,3/3/2025,3/8/2025,Dr. Davis,Infectious Disease,Lake Shane,O-,No,78149,Under Treatment,Private
+P0506,Patrick Walker,26,Male,COVID-19,1/7/2026,1/17/2026,Dr. Miller,Infectious Disease,Blakestad,A+,Yes,6496,Recovered,General
+P0507,Joshua Jones,14,Male,Diabetes,8/25/2024,9/3/2024,Dr. Donaldson,Pulmonology,East Amber,O-,Yes,94261,Recovered,Semi-Private
+P0508,Kyle Anderson MD,13,Female,Hypertension,1/17/2026,1/19/2026,Dr. Smith,General Medicine,North Melanie,B-,No,87872,Under Treatment,Semi-Private
+P0509,Jordan Brown,51,Male,Heart Disease,9/27/2024,9/29/2024,Dr. Stuart,Pulmonology,Burkebury,O-,No,85503,Recovered,Private
+P0510,Kimberly Bishop,55,Male,Hypertension,6/28/2025,7/9/2025,Dr. Williams,Pulmonology,New Travis,B+,No,28029,Under Treatment,Semi-Private
+P0511,Christopher Beasley,18,Female,Heart Disease,9/3/2024,9/5/2024,Dr. Hall,Cardiology,Michaelstad,AB+,No,80825,Under Treatment,Private
+P0512,Eric Jones,66,Male,Dengue,8/14/2024,8/24/2024,Dr. Rosales,Pulmonology,Rodgersberg,O-,No,14649,Under Treatment,Semi-Private
+P0513,Tiffany Ward,20,Female,Hypertension,1/4/2026,1/15/2026,Dr. Lee,Infectious Disease,South Jessica,A+,No,86359,Recovered,Semi-Private
+P0514,Joseph Nolan,81,Female,Hypertension,7/2/2024,7/14/2024,Dr. Wilson,Cardiology,Waltonshire,A-,No,90081,Under Treatment,Private
+P0515,Tyler Carter,40,Male,Asthma,3/30/2025,4/5/2025,Dr. French,Pulmonology,West Josephville,B+,Yes,81048,Under Treatment,Private
+P0516,Antonio Spencer,19,Female,Heart Disease,11/16/2025,11/26/2025,Dr. Perez,Cardiology,West Mark,O-,No,90812,Recovered,General
+P0517,Nicholas Nielsen,34,Female,Hypertension,5/25/2026,5/31/2026,Dr. Arroyo,Pulmonology,Bradleychester,O+,No,93347,Under Treatment,General
+P0518,Thomas Dunn,43,Male,Hypertension,5/21/2025,5/30/2025,Dr. Gibson,Cardiology,East Teresaland,B-,No,95659,Under Treatment,General
+P0519,Anthony Villa,53,Male,COVID-19,4/19/2025,4/20/2025,Dr. Patterson,Pulmonology,North Barryfort,A+,Yes,9914,Recovered,Semi-Private
+P0520,Jennifer Mcknight,61,Male,Malaria,8/13/2024,8/19/2024,Dr. Scott,Infectious Disease,East Denise,AB+,No,86136,Recovered,Semi-Private
+P0521,William Espinoza,22,Female,Diabetes,3/6/2025,3/11/2025,Dr. Miller,Pulmonology,West Marthaborough,A+,No,15882,Under Treatment,Private
+P0522,Michael Jefferson,12,Male,Heart Disease,10/26/2025,11/7/2025,Dr. Saunders,Pulmonology,Audreyhaven,A+,Yes,81474,Recovered,General
+P0523,Kathryn Garcia,3,Male,COVID-19,3/8/2025,3/10/2025,Dr. Lynch,General Medicine,Evanmouth,B-,No,70010,Recovered,Semi-Private
+P0524,Mark Valdez,21,Female,Asthma,9/1/2025,9/9/2025,Dr. Davenport,Infectious Disease,Port Melissa,O-,Yes,28689,Recovered,Private
+P0525,Rachel Johnston,13,Male,Asthma,6/3/2026,6/8/2026,Dr. Hunter,General Medicine,Kaylaburgh,AB+,Yes,70671,Under Treatment,General
+P0526,Darrell Mason,37,Female,Dengue,12/1/2024,12/2/2024,Dr. Rodriguez,Pulmonology,New Abigail,A+,Yes,94367,Recovered,Private
+P0527,Travis Casey,67,Male,Heart Disease,1/2/2026,1/9/2026,Dr. Smith,Endocrinology,Reidfurt,B+,No,24236,Under Treatment,Semi-Private
+P0528,Briana White,17,Male,Typhoid,3/24/2025,3/26/2025,Dr. Peters,Infectious Disease,North Angelashire,A+,No,50817,Recovered,General
+P0529,Morgan Clark,16,Male,Dengue,2/11/2026,2/15/2026,Dr. Walters,Pulmonology,Lake Donaldland,A-,Yes,98259,Recovered,Semi-Private
+P0530,Matthew Atkinson,78,Female,Dengue,9/30/2025,10/6/2025,Dr. Jackson,Endocrinology,South Brandyport,AB-,No,95444,Recovered,Semi-Private
+P0531,David Rush,1,Female,Dengue,3/17/2025,4/1/2025,Dr. Carter,Pulmonology,New Michael,B-,No,10700,Under Treatment,General
+P0532,Bryan Salazar,14,Female,COVID-19,9/24/2025,10/4/2025,Dr. Stewart,Pulmonology,Franklinbury,A-,Yes,47018,Recovered,Private
+P0533,Kenneth Cruz,89,Female,Asthma,10/28/2024,10/29/2024,Dr. Anderson,Infectious Disease,New Valerie,A+,No,18689,Under Treatment,General
+P0534,Justin Bowman,51,Male,Typhoid,9/18/2024,9/24/2024,Dr. Robertson,General Medicine,Johnnyshire,B+,No,43397,Recovered,Private
+P0535,Eric Rogers,28,Female,COVID-19,1/8/2026,1/20/2026,Dr. Townsend,Infectious Disease,Richmondmouth,AB-,No,82839,Recovered,Semi-Private
+P0536,Lisa Washington,23,Male,Typhoid,6/5/2026,6/19/2026,Dr. Simpson,Cardiology,West Daniel,AB-,No,38105,Under Treatment,Semi-Private
+P0537,Brenda Grimes,18,Female,Malaria,5/16/2026,5/25/2026,Dr. Murphy,Cardiology,Lake Michaelstad,B-,No,7310,Under Treatment,General
+P0538,James Herrera,57,Female,COVID-19,7/10/2025,7/21/2025,Dr. Smith,Infectious Disease,Pattersonhaven,A-,Yes,53622,Under Treatment,General
+P0539,Carol Gonzalez,36,Female,Heart Disease,5/20/2026,6/2/2026,Dr. Guerra,Cardiology,New Donaldberg,A+,No,65000,Under Treatment,General
+P0540,Katelyn Rowe,69,Male,Diabetes,4/28/2026,5/12/2026,Dr. Vaughn,General Medicine,Jacquelinemouth,AB+,Yes,8462,Under Treatment,Semi-Private
+P0541,Samantha Stevenson,53,Female,Hypertension,4/16/2026,4/22/2026,Dr. Jenkins,General Medicine,North Rebecca,AB+,Yes,50113,Recovered,General
+P0542,Rachel Richards,74,Male,Dengue,9/23/2025,10/6/2025,Dr. Ruiz,Infectious Disease,Port Marcusmouth,O-,Yes,39420,Recovered,Private
+P0543,Tyler Gill,76,Female,Diabetes,8/31/2025,9/2/2025,Dr. Carlson,General Medicine,New Shawnfurt,A+,Yes,41376,Recovered,Semi-Private
+P0544,Sara Carter,51,Female,Typhoid,6/5/2025,6/17/2025,Dr. Thomas,General Medicine,West Jacobhaven,B-,Yes,85781,Recovered,Private
+P0545,Nicole Wood,12,Male,Asthma,7/11/2025,7/21/2025,Dr. Vargas,Infectious Disease,Robbinsberg,AB-,No,55174,Under Treatment,Private
+P0546,Jennifer Spears,26,Male,Dengue,12/21/2025,12/23/2025,Dr. Thomas,Infectious Disease,North Jennifer,A+,Yes,99029,Under Treatment,General
+P0547,Shannon Cameron,60,Male,COVID-19,3/24/2026,3/31/2026,Dr. Costa,Cardiology,Hayeston,AB+,Yes,84272,Recovered,Semi-Private
+P0548,Amanda Davis,10,Female,Dengue,2/18/2025,2/19/2025,Dr. Neal,Endocrinology,Jordanland,AB+,Yes,42907,Under Treatment,General
+P0549,Dr. Todd Wolfe,47,Male,Typhoid,10/27/2025,11/8/2025,Dr. Russell,Pulmonology,North Kristin,B+,No,85186,Recovered,Private
+P0550,David Weeks DVM,53,Female,Dengue,11/27/2025,11/30/2025,Dr. Brandt,Endocrinology,North Holly,A+,No,26530,Under Treatment,Semi-Private
+P0551,Kelli Rodriguez,64,Female,Malaria,6/25/2025,7/2/2025,Dr. Rollins,Pulmonology,Vincentborough,O+,No,83140,Under Treatment,General
+P0552,Rachel Baker,37,Male,Diabetes,10/11/2025,10/19/2025,Dr. Gentry,Cardiology,Port Angela,AB+,No,73220,Recovered,General
+P0553,Emily Mendoza,2,Female,Dengue,7/13/2025,7/22/2025,Dr. Riley,Infectious Disease,North Jennifer,A-,Yes,66041,Recovered,Private
+P0554,Dale Wright,30,Male,Dengue,3/4/2025,3/6/2025,Dr. Clark,Endocrinology,Ramosborough,AB-,No,28045,Recovered,Semi-Private
+P0555,Sherry Harris,76,Female,Hypertension,12/5/2025,12/10/2025,Dr. Mendoza,General Medicine,North Melody,B-,No,80345,Under Treatment,Semi-Private
+P0556,Cynthia Walters,90,Male,Asthma,8/28/2025,9/2/2025,Dr. Moore,Pulmonology,Chaseville,A+,No,60319,Under Treatment,Semi-Private
+P0557,Lisa Stephens,84,Male,Hypertension,12/15/2025,12/23/2025,Dr. Burton,General Medicine,North Justin,A-,No,76089,Recovered,Private
+P0558,Jacqueline Jordan,68,Female,Diabetes,7/24/2025,8/2/2025,Dr. Sims,Pulmonology,West Julie,B+,No,89475,Under Treatment,Private
+P0559,Ruth Pearson,64,Male,Typhoid,1/21/2025,1/25/2025,Dr. Stephens,Pulmonology,South Heather,A+,Yes,55066,Under Treatment,Semi-Private
+P0560,Christine Savage,10,Male,COVID-19,12/5/2025,12/18/2025,Dr. Hill,Infectious Disease,Jeremyburgh,B-,Yes,73840,Under Treatment,General
+P0561,Mark Benton,44,Female,Dengue,12/15/2024,12/28/2024,Dr. Jenkins,Pulmonology,East Janetmouth,A-,Yes,5353,Under Treatment,Semi-Private
+P0562,Elizabeth Contreras,14,Female,Diabetes,11/10/2024,11/19/2024,Dr. Mcdaniel,General Medicine,Lake Troyberg,O+,No,93616,Recovered,General
+P0563,Andre Jenkins,74,Male,COVID-19,1/30/2025,2/6/2025,Dr. Williamson,Cardiology,Maryshire,O+,No,20562,Recovered,Private
+P0564,Darrell Green,13,Female,Asthma,1/14/2025,1/15/2025,Dr. Robinson,Infectious Disease,New Jasmineshire,AB+,No,69338,Recovered,Private
+P0565,Teresa Gomez,15,Female,Diabetes,1/28/2025,2/12/2025,Dr. Murphy,Endocrinology,Millerport,B+,Yes,99466,Recovered,Semi-Private
+P0566,Shannon Roberts,68,Female,Malaria,7/2/2025,7/4/2025,Dr. Stephenson,Pulmonology,Lisafurt,A+,No,16449,Under Treatment,Private
+P0567,Lisa Hutchinson,67,Male,Malaria,1/10/2025,1/25/2025,Dr. Smith,Endocrinology,North Abigail,O-,No,42580,Recovered,Private
+P0568,Michael Mack,16,Female,Hypertension,2/28/2025,3/5/2025,Dr. Williams,Pulmonology,Normanbury,B-,No,59282,Under Treatment,Private
+P0569,Nathaniel Bates,67,Female,Heart Disease,3/13/2025,3/22/2025,Dr. Johnson,Endocrinology,Hollyshire,O-,No,14741,Recovered,Semi-Private
+P0570,Thomas Mcknight,58,Male,Dengue,12/3/2025,12/10/2025,Dr. Clark,Infectious Disease,Claytonburgh,A-,No,56861,Under Treatment,Semi-Private
+P0571,Lindsey Green,2,Female,Heart Disease,5/14/2025,5/29/2025,Dr. Fisher,Endocrinology,West Ebony,O-,No,58406,Under Treatment,Semi-Private
+P0572,John Johnson,65,Female,Heart Disease,1/18/2025,1/26/2025,Dr. Moore,Endocrinology,Denisemouth,A+,Yes,32568,Recovered,Semi-Private
+P0573,David Johnson,27,Female,Diabetes,1/18/2026,2/1/2026,Dr. Johns,Infectious Disease,East Colin,A+,No,57032,Recovered,Private
+P0574,Michelle Martinez,69,Male,Asthma,6/25/2024,7/3/2024,Dr. Stephens,Endocrinology,Hunterberg,O+,Yes,12222,Under Treatment,General
+P0575,Rhonda Stark,24,Male,Malaria,12/24/2024,12/25/2024,Dr. Ross,Infectious Disease,East Patrick,O-,Yes,41075,Recovered,General
+P0576,Christopher Clark,49,Male,Heart Disease,1/17/2025,1/24/2025,Dr. Smith,Cardiology,New Melindamouth,AB+,Yes,31149,Recovered,Semi-Private
+P0577,Cesar Parks,42,Male,Malaria,11/3/2024,11/8/2024,Dr. Mccarthy,Infectious Disease,Christinaton,AB+,No,25995,Under Treatment,Semi-Private
+P0578,Michael Perkins,7,Male,Diabetes,11/18/2024,11/27/2024,Dr. Walker,Pulmonology,New Kevinland,O-,Yes,86302,Recovered,Private
+P0579,Marissa Smith,38,Male,Malaria,4/30/2025,5/8/2025,Dr. Harper,Endocrinology,South Stephanieshire,AB-,No,45897,Under Treatment,General
+P0580,William Curry,44,Male,Typhoid,3/7/2025,3/12/2025,Dr. Fuller,General Medicine,Port Jennyton,AB+,Yes,83911,Recovered,Semi-Private
+P0581,Clarence Perez,84,Female,Heart Disease,11/10/2025,11/23/2025,Dr. Patel,Pulmonology,Rosebury,A-,No,58806,Recovered,Private
+P0582,Maria Hernandez,70,Female,COVID-19,5/18/2025,5/20/2025,Dr. Lopez,Endocrinology,Johnsonside,O-,No,59764,Under Treatment,Private
+P0583,Thomas Orr,1,Female,Diabetes,10/7/2025,10/14/2025,Dr. Carpenter,Infectious Disease,Port Kevinmouth,B-,Yes,77292,Recovered,Semi-Private
+P0584,Tracy Wright,81,Male,Diabetes,1/9/2026,1/19/2026,Dr. Coffey,Pulmonology,East Savannah,B+,No,67704,Recovered,General
+P0585,Jessica Lawson,86,Male,Typhoid,7/20/2024,7/25/2024,Dr. King,General Medicine,Freemanfort,AB-,Yes,15279,Under Treatment,Semi-Private
+P0586,Erica Nguyen,8,Male,Heart Disease,1/17/2026,1/27/2026,Dr. Shea,Cardiology,South Jenniferview,B-,Yes,22293,Recovered,Private
+P0587,Christine Williams,58,Female,Malaria,3/31/2025,4/13/2025,Dr. Hansen,Pulmonology,Brownborough,AB-,Yes,6149,Under Treatment,General
+P0588,Jill Gonzales,66,Female,Hypertension,6/10/2026,6/24/2026,Dr. Dominguez,Infectious Disease,Hallport,AB-,Yes,27901,Under Treatment,Semi-Private
+P0589,Kevin Reynolds,42,Female,Heart Disease,4/4/2025,4/10/2025,Dr. Merritt,General Medicine,West Sarah,B-,No,45899,Under Treatment,General
+P0590,Bryan Hart,29,Female,Dengue,1/6/2026,1/19/2026,Dr. Price,Pulmonology,South Stevenchester,O-,No,13272,Recovered,General
+P0591,Andrew Riley,64,Male,Malaria,7/5/2024,7/6/2024,Dr. Dougherty,Cardiology,North Matthewfurt,A+,Yes,44291,Recovered,Private
+P0592,Susan Wilson,63,Male,Hypertension,10/14/2024,10/23/2024,Dr. Foster,Cardiology,New Justin,A-,No,87542,Under Treatment,General
+P0593,Mr. Jeffrey Thompson MD,88,Female,Dengue,7/12/2024,7/21/2024,Dr. Horne,Cardiology,Jamesfurt,B-,Yes,71356,Recovered,General
+P0594,Jennifer Roberts,17,Female,Dengue,12/21/2025,12/27/2025,Dr. Campos,Pulmonology,Timothymouth,AB+,No,92379,Under Treatment,General
+P0595,Andrew Jones,90,Female,COVID-19,9/11/2025,9/16/2025,Dr. Avila,General Medicine,Johnsonview,A-,No,94876,Recovered,General
+P0596,Gloria Freeman,70,Male,Asthma,6/4/2025,6/5/2025,Dr. Foster,Pulmonology,Nathanielstad,O-,Yes,74833,Under Treatment,Semi-Private
+P0597,Renee Bell,73,Male,Dengue,4/15/2025,4/25/2025,Dr. Jones,Pulmonology,North Wyatt,O-,Yes,58745,Recovered,Private
+P0598,Alan Rose,68,Male,Diabetes,9/10/2024,9/21/2024,Dr. Fischer,Cardiology,Hendersonbury,B-,Yes,44953,Recovered,Private
+P0599,Christopher Reyes,68,Female,Asthma,5/28/2026,6/9/2026,Dr. Campbell,Cardiology,North Kevin,A-,Yes,60648,Under Treatment,Private
+P0600,Michelle Murphy,14,Male,Malaria,9/4/2024,9/17/2024,Dr. Johnston,Pulmonology,Watkinsfurt,AB-,Yes,74794,Recovered,General
+P0601,Theresa Chan,59,Male,Hypertension,3/7/2025,3/18/2025,Dr. West,Infectious Disease,Micheleberg,A+,No,71431,Under Treatment,General
+P0602,William Price,85,Female,Asthma,12/26/2025,1/9/2026,Dr. Gonzalez,Endocrinology,Lucerofurt,A+,No,46992,Recovered,Semi-Private
+P0603,Scott Mcdaniel,18,Male,Typhoid,6/3/2025,6/14/2025,Dr. Glover,Endocrinology,South Darrell,A-,Yes,85331,Recovered,Private
+P0604,Mr. Joseph Morgan PhD,29,Female,Dengue,1/9/2026,1/10/2026,Dr. Harris,Cardiology,East Melissaton,O+,No,18047,Under Treatment,General
+P0605,Jeffrey Pratt,21,Female,Asthma,11/25/2025,12/6/2025,Dr. Frazier,General Medicine,Port Danielview,B+,Yes,95868,Under Treatment,Semi-Private
+P0606,Derrick Donaldson,49,Female,Asthma,2/13/2026,2/23/2026,Dr. Wright,Infectious Disease,Lake Andrea,A+,No,89098,Under Treatment,Semi-Private
+P0607,Carolyn Fowler,58,Female,Heart Disease,5/23/2026,5/27/2026,Dr. Norman,Endocrinology,Susanton,B-,Yes,81677,Under Treatment,General
+P0608,Travis Gonzalez,60,Female,Hypertension,7/8/2025,7/11/2025,Dr. Patel,Endocrinology,South Josephbury,O-,No,82233,Recovered,Private
+P0609,Brandon Molina,32,Female,Hypertension,5/26/2025,6/9/2025,Dr. Farrell,Infectious Disease,Martinezville,A-,Yes,36799,Recovered,Private
+P0610,Frank Dyer,50,Female,Malaria,6/17/2025,6/22/2025,Dr. Thomas,Pulmonology,West Lauratown,A+,No,58719,Under Treatment,Private
+P0611,Thomas Harris Jr.,14,Female,Hypertension,4/7/2026,4/11/2026,Dr. Garcia,Endocrinology,Lake Michele,AB-,No,31152,Recovered,Semi-Private
+P0612,Kirk Joseph,63,Male,Hypertension,5/5/2026,5/10/2026,Dr. Carpenter,Infectious Disease,Michaelbury,O+,Yes,38281,Recovered,Private
+P0613,Andrea Schaefer,14,Female,Malaria,12/6/2024,12/13/2024,Dr. Holloway,Endocrinology,Morganside,B-,No,64055,Under Treatment,General
+P0614,Christian Schmidt,2,Female,Diabetes,11/16/2024,11/29/2024,Dr. Burns,Pulmonology,Stephaniehaven,AB+,Yes,93287,Recovered,Semi-Private
+P0615,Joel Collins,88,Female,Heart Disease,12/10/2025,12/25/2025,Dr. Perkins,Infectious Disease,Freemanbury,A+,Yes,20203,Under Treatment,Private
+P0616,Erin Hurst,24,Male,Typhoid,3/30/2026,4/14/2026,Dr. Brooks,Endocrinology,Port Sharonville,A-,No,51054,Under Treatment,Private
+P0617,Christopher Barr,47,Male,Dengue,7/25/2024,8/5/2024,Dr. Freeman,General Medicine,Lake Jennifer,A+,No,11390,Recovered,Semi-Private
+P0618,Nicolas Fleming,68,Male,COVID-19,11/15/2025,11/27/2025,Dr. Hill,Cardiology,East Steven,O+,Yes,56523,Recovered,General
+P0619,Eric Velazquez,45,Female,Typhoid,6/25/2024,7/7/2024,Dr. Berger,Endocrinology,New Leroy,O+,No,63188,Under Treatment,General
+P0620,Michael Alvarado,83,Female,Hypertension,10/18/2024,10/24/2024,Dr. Lowe,Endocrinology,West Suzanne,AB+,No,33003,Recovered,Semi-Private
+P0621,Cindy Cook,56,Male,Dengue,6/9/2025,6/10/2025,Dr. Shaw,General Medicine,Fergusonmouth,B+,No,71790,Recovered,Private
+P0622,Andrea Hernandez,58,Male,Typhoid,9/1/2025,9/11/2025,Dr. Collins,General Medicine,,O-,No,91244,Under Treatment,Private
+P0623,Melissa Williams,43,Female,Malaria,8/15/2024,8/24/2024,Dr. Vega,Pulmonology,Lake Keithbury,O-,Yes,69984,Under Treatment,Semi-Private
+P0624,Jason Miller,68,Female,Malaria,5/22/2026,5/31/2026,Dr. Calhoun,General Medicine,Adamsbury,O+,Yes,32381,Under Treatment,Private
+P0625,Hunter Martinez,77,Female,Malaria,9/9/2024,9/24/2024,Dr. Randolph,Cardiology,Alexview,A-,No,9918,Recovered,Semi-Private
+P0626,Aaron Watson,49,Male,Hypertension,11/19/2025,11/26/2025,Dr. Ellis,Cardiology,Lake Danielberg,B-,No,8721,Under Treatment,Semi-Private
+P0627,Amanda Chambers,43,Male,Dengue,6/8/2025,6/22/2025,Dr. Johnson,Pulmonology,Geraldchester,AB-,No,48443,Under Treatment,General
+P0628,Carl Sanchez,64,Female,Asthma,6/13/2025,6/28/2025,Dr. Simmons,General Medicine,West Stephenborough,B-,Yes,37218,Recovered,General
+P0629,Kristi Rowland,53,Male,Diabetes,2/18/2025,2/24/2025,Dr. Lester,Pulmonology,Garciachester,A+,No,7869,Under Treatment,General
+P0630,Jessica Jones,15,Female,Asthma,10/28/2025,11/8/2025,Dr. Castillo,Endocrinology,Jacksonshire,O-,No,32429,Recovered,General
+P0631,Connie Hubbard,35,Male,Malaria,10/11/2025,10/15/2025,Dr. Bird,Endocrinology,North Bradleyborough,B-,Yes,73367,Under Treatment,Semi-Private
+P0632,Natalie Sharp,32,Female,COVID-19,7/18/2025,7/20/2025,Dr. Curry,Endocrinology,New Lisamouth,AB-,No,26796,Recovered,General
+P0633,Alison Gonzales,44,Female,Typhoid,2/2/2026,2/11/2026,Dr. Howard,Infectious Disease,Robertmouth,O+,No,48805,Under Treatment,Private
+P0634,Amanda Lambert,40,Male,Asthma,5/19/2026,5/25/2026,Dr. Caldwell,Pulmonology,Leahview,B+,No,43930,Recovered,Private
+P0635,Robin Smith,24,Female,Malaria,10/28/2024,11/12/2024,Dr. Harris,Infectious Disease,West Michaelville,B+,Yes,47294,Recovered,Private
+P0636,James Carter,19,Male,Hypertension,6/19/2024,7/2/2024,Dr. Good,Infectious Disease,North Arthur,O-,No,78819,Under Treatment,Private
+P0637,Adam Thompson,20,Male,Hypertension,9/23/2025,9/27/2025,Dr. Franco,Infectious Disease,North Tracy,O+,Yes,24346,Under Treatment,General
+P0638,Colin Bowers,1,Male,Diabetes,3/16/2026,3/31/2026,Dr. Reed,General Medicine,East Ryan,B-,Yes,14464,Recovered,Semi-Private
+P0639,Ms. Rachel Mcbride DDS,26,Male,Heart Disease,3/28/2025,4/9/2025,Dr. Anderson,Infectious Disease,Maryberg,A+,Yes,30460,Under Treatment,Private
+P0640,Jonathan Burgess MD,1,Male,Asthma,1/17/2026,1/20/2026,Dr. Harvey,Infectious Disease,Hamiltonville,A+,Yes,83371,Under Treatment,Private
+P0641,Joseph Jones,90,Female,Malaria,5/11/2025,5/19/2025,Dr. Price,Cardiology,Dawnfort,O-,Yes,93036,Under Treatment,General
+P0642,Troy Lawrence,1,Male,Hypertension,5/29/2026,6/11/2026,Dr. Klein,Infectious Disease,Matthewfurt,AB-,Yes,8428,Recovered,Semi-Private
+P0643,Richard Cruz,47,Male,Malaria,3/7/2025,3/10/2025,Dr. Bates,Cardiology,Anitaside,AB-,Yes,81607,Recovered,General
+P0644,Frank Johnson,74,Male,Typhoid,7/30/2024,8/2/2024,Dr. Merritt,General Medicine,Johnshire,B+,No,8203,Under Treatment,Semi-Private
+P0645,Hector Harrison,28,Male,Dengue,8/11/2025,8/24/2025,Dr. Martin,Endocrinology,Jasonmouth,B-,Yes,45000,Under Treatment,Semi-Private
+P0646,Robert Holmes,80,Female,Heart Disease,8/13/2025,8/16/2025,Dr. Kennedy,Infectious Disease,Darrenview,B+,No,84911,Recovered,Semi-Private
+P0647,Brandon Warner,72,Male,Typhoid,4/14/2026,4/19/2026,Dr. Davis,General Medicine,Lake Anthony,A-,No,84035,Under Treatment,Semi-Private
+P0648,Alexander Harrell,70,Female,Malaria,3/16/2025,3/29/2025,Dr. Velazquez,Endocrinology,Michaelton,AB+,Yes,74347,Recovered,Semi-Private
+P0649,Brenda Garrett,57,Male,COVID-19,1/9/2025,1/15/2025,Dr. Flores,Infectious Disease,Port Laurachester,O-,No,26217,Under Treatment,Semi-Private
+P0650,Angela Huff,56,Female,Asthma,11/6/2025,11/19/2025,Dr. Garrett,Pulmonology,Lake Travischester,AB+,Yes,21026,Under Treatment,General
+P0651,Elizabeth Blackwell,71,Female,Dengue,12/31/2025,1/13/2026,Dr. Blackburn,Endocrinology,Tuckerburgh,A+,Yes,24621,Under Treatment,General
+P0652,Brian Johnston,54,Male,Heart Disease,7/10/2025,7/17/2025,Dr. Byrd,Endocrinology,Garzamouth,B+,No,32441,Under Treatment,Private
+P0653,Scott Mendoza,78,Male,COVID-19,1/15/2025,1/18/2025,Dr. Stone,Cardiology,East Kimberly,B+,No,64747,Under Treatment,Semi-Private
+P0654,Lee Miller,63,Male,Malaria,6/6/2025,6/16/2025,Dr. Conner,Cardiology,Matthewborough,A+,No,56459,Recovered,General
+P0655,Hannah Ross,37,Male,Typhoid,11/30/2025,12/4/2025,Dr. Goodman,General Medicine,Lake Sarah,O-,No,7957,Under Treatment,Private
+P0656,Christopher Alvarado,23,Male,Malaria,8/16/2024,8/21/2024,Dr. Merritt,General Medicine,Bushbury,B-,No,44781,Recovered,Semi-Private
+P0657,Miranda Wells,49,Male,Dengue,1/14/2025,1/19/2025,Dr. Gonzalez,Endocrinology,South Emily,A+,Yes,66187,Recovered,Private
+P0658,Sherry Jackson,17,Female,COVID-19,6/13/2025,6/17/2025,Dr. Banks,Infectious Disease,Ericport,AB+,No,24839,Recovered,General
+P0659,Harry Jarvis,67,Female,Typhoid,6/12/2025,6/22/2025,Dr. Olson,General Medicine,West Jose,O-,No,39011,Recovered,Private
+P0660,Mary Murray,1,Male,Diabetes,4/4/2025,4/12/2025,Dr. Hudson,General Medicine,Lauramouth,O+,Yes,57221,Under Treatment,General
+P0661,William Fox,37,Male,Heart Disease,2/15/2026,2/27/2026,Dr. Townsend,Infectious Disease,North Davidton,B+,No,78437,Under Treatment,Semi-Private
+P0662,Scott Wood,13,Male,Asthma,3/21/2025,3/22/2025,Dr. Parker,Endocrinology,Elizabethborough,B-,No,76177,Recovered,Semi-Private
+P0663,Jeffery Huynh,48,Female,Asthma,9/4/2025,9/17/2025,Dr. Shelton,Cardiology,West Glenn,B-,No,66912,Recovered,Private
+P0664,Debra Howard,80,Female,Typhoid,1/11/2026,1/26/2026,Dr. Kent,Pulmonology,Port Danielshire,B-,Yes,20244,Recovered,General
+P0665,Angel Matthews,3,Female,Typhoid,5/19/2026,5/21/2026,Dr. Young,Infectious Disease,Teresaland,AB-,No,47794,Recovered,Semi-Private
+P0666,Jamie Lewis,88,Female,Typhoid,4/9/2025,4/23/2025,Dr. Jensen,Cardiology,South Paul,A+,Yes,16672,Under Treatment,Semi-Private
+P0667,Todd Hernandez,76,Male,Heart Disease,3/1/2025,3/13/2025,Dr. Adams,Endocrinology,West Suzanne,O+,No,74629,Recovered,Semi-Private
+P0668,Crystal Rodriguez,50,Male,Malaria,8/17/2024,8/31/2024,Dr. Jackson,Cardiology,New Christine,AB+,Yes,16076,Under Treatment,General
+P0669,Crystal Kidd,59,Male,Heart Disease,7/2/2024,7/8/2024,Dr. Hodges,Infectious Disease,Nielsentown,B+,Yes,50812,Recovered,Private
+P0670,Anna Taylor,47,Male,Hypertension,4/25/2025,5/2/2025,Dr. Adams,Pulmonology,Martinport,AB-,No,30665,Under Treatment,General
+P0671,Alexander Garcia,78,Female,Typhoid,11/1/2025,11/11/2025,Dr. Jensen,Infectious Disease,Coxmouth,A-,No,26174,Recovered,Private
+P0672,Lindsey Harvey,39,Male,Asthma,2/2/2026,2/14/2026,Dr. Moore,Endocrinology,Penaberg,AB+,No,62230,Recovered,General
+P0673,Nicole Dixon,60,Female,Diabetes,9/26/2025,10/9/2025,Dr. Jenkins,Pulmonology,Andrewside,A-,No,36374,Under Treatment,General
+P0674,Sheri Terrell,47,Male,Malaria,8/25/2024,9/8/2024,Dr. Miller,General Medicine,Trujillostad,AB-,No,59381,Recovered,General
+P0675,Austin Mcclain,20,Male,Hypertension,10/11/2025,10/16/2025,Dr. Lane,General Medicine,Frostshire,A+,Yes,45826,Recovered,Semi-Private
+P0676,Dr. April Thomas,73,Male,COVID-19,8/12/2024,8/24/2024,Dr. Munoz,Endocrinology,North Barbara,O-,Yes,51754,Under Treatment,General
+P0677,Deborah Joseph,24,Female,Dengue,1/26/2025,1/29/2025,Dr. George,Cardiology,New Emily,AB+,Yes,78474,Recovered,Semi-Private
+P0678,Ricky Hall,87,Male,Malaria,10/7/2024,10/10/2024,Dr. Black,Endocrinology,Scottmouth,O+,No,32733,Under Treatment,General
+P0679,Melanie Pena,83,Female,COVID-19,8/30/2024,9/1/2024,Dr. Jordan,Endocrinology,Cooktown,B+,Yes,55741,Under Treatment,Semi-Private
+P0680,Miss Mary Stark,60,Male,Hypertension,6/15/2024,6/30/2024,Dr. Miller,General Medicine,Martinezfurt,O-,Yes,57522,Recovered,General
+P0681,Andrew Nguyen,37,Male,Heart Disease,8/9/2025,8/14/2025,Dr. Hahn,General Medicine,Leefurt,O+,No,68463,Under Treatment,Semi-Private
+P0682,Andrew Jones,84,Male,Hypertension,2/19/2025,2/20/2025,Dr. Smith,Pulmonology,New Stephen,A+,No,43713,Under Treatment,Semi-Private
+P0683,Crystal Brown,58,Female,COVID-19,1/25/2026,1/29/2026,Dr. Clark,Cardiology,East Jeffreyborough,B-,Yes,31515,Recovered,Private
+P0684,Sara Davis,86,Female,Heart Disease,3/3/2026,3/12/2026,Dr. Fox,General Medicine,North Stacybury,O-,No,16252,Under Treatment,General
+P0685,Derrick Preston,18,Female,Asthma,3/3/2025,3/17/2025,Dr. Flores,General Medicine,West Erinchester,O+,Yes,44335,Under Treatment,General
+P0686,Rebekah Lucas,85,Male,Diabetes,3/5/2026,3/8/2026,Dr. Gonzales,General Medicine,East Thomas,B-,No,50969,Recovered,General
+P0687,Chris Welch,18,Male,Asthma,7/27/2024,8/9/2024,Dr. Campbell,Pulmonology,Ashleybury,B+,Yes,60057,Recovered,Private
+P0688,April Rodriguez,76,Female,COVID-19,9/5/2024,9/18/2024,Dr. Davis,Endocrinology,Jacquelineborough,A-,Yes,37691,Recovered,Private
+P0689,Connie Smith,68,Female,Typhoid,8/24/2025,9/8/2025,Dr. Wheeler,Endocrinology,Kevinstad,A+,Yes,31331,Under Treatment,Private
+P0690,James Cooper,17,Male,Heart Disease,12/24/2024,1/8/2025,Dr. Thompson,General Medicine,Washingtonview,A-,No,68306,Recovered,Private
+P0691,Jacob Mccarthy,58,Male,Typhoid,5/5/2026,5/17/2026,Dr. Schmitt,Cardiology,West Erin,A+,Yes,19752,Under Treatment,Private
+P0692,Scott Rodriguez,75,Female,COVID-19,11/14/2025,11/28/2025,Dr. Park,Endocrinology,Port Emma,O-,No,20043,Recovered,Private
+P0693,Julie Johnson,47,Male,Diabetes,3/14/2026,3/17/2026,Dr. Patel,General Medicine,West Jameschester,A-,No,51310,Recovered,General
+P0694,Peter Wong,55,Male,Malaria,1/13/2026,1/21/2026,Dr. Ford,Cardiology,Cardenasshire,A+,Yes,21893,Recovered,General
+P0695,Mr. Robert Jones DDS,38,Male,Malaria,6/15/2024,6/30/2024,Dr. Walker,Infectious Disease,South Joshua,B+,No,20094,Under Treatment,Private
+P0696,Keith Campbell,46,Male,Asthma,5/7/2025,5/13/2025,Dr. Day,Infectious Disease,Odomchester,O+,Yes,54796,Recovered,Private
+P0697,Blake Shah,7,Male,Typhoid,1/25/2025,2/3/2025,Dr. Bauer,General Medicine,Rodgersmouth,B-,No,40051,Recovered,Semi-Private
+P0698,Kimberly Baker,25,Female,Malaria,1/19/2026,1/24/2026,Dr. Bowman,Cardiology,Gregorytown,O+,No,95109,Recovered,General
+P0699,Gordon Smith,57,Female,COVID-19,6/10/2025,6/12/2025,Dr. Jackson,Cardiology,North Angie,A-,No,64957,Under Treatment,General
+P0700,Richard Munoz,72,Male,Diabetes,6/16/2024,6/23/2024,Dr. Roach,Endocrinology,Terryfort,B-,No,93538,Under Treatment,Semi-Private
+P0701,Jeremy Anderson,61,Female,Hypertension,5/28/2025,6/4/2025,Dr. Perez,General Medicine,Andrewstown,O+,Yes,23005,Under Treatment,Semi-Private
+P0702,Alyssa Richard,16,Male,Malaria,8/26/2024,8/27/2024,Dr. Ramsey,General Medicine,New Laura,O-,Yes,66423,Recovered,Private
+P0703,Vickie Brown,16,Male,Diabetes,4/22/2026,4/27/2026,Dr. Day,General Medicine,East Deanna,AB+,No,57574,Under Treatment,Semi-Private
+P0704,Anthony Gamble,35,Female,Malaria,10/19/2024,10/20/2024,Dr. Diaz,Endocrinology,South Lesliefurt,B-,No,80409,Under Treatment,Semi-Private
+P0705,Cameron Smith,70,Male,Dengue,5/25/2025,5/30/2025,Dr. Turner,General Medicine,Perezmouth,O+,Yes,44395,Recovered,Private
+P0706,Evelyn Kennedy,37,Male,Dengue,3/1/2026,3/5/2026,Dr. Wells,Cardiology,Kimberlyborough,AB-,Yes,62484,Recovered,Semi-Private
+P0707,David Parker,23,Female,Typhoid,12/10/2024,12/19/2024,Dr. Cannon,Cardiology,South Lorifort,A-,Yes,59596,Recovered,Private
+P0708,Andrea Barker,8,Female,Heart Disease,7/23/2025,8/3/2025,Dr. Arellano,Endocrinology,Elizabethmouth,A+,No,28512,Recovered,Semi-Private
+P0709,Stephanie Ochoa,58,Male,Malaria,7/4/2024,7/19/2024,Dr. Mcguire,Infectious Disease,Gabrielfort,B+,No,59104,Recovered,Private
+P0710,Matthew Cruz,34,Female,Typhoid,11/18/2024,11/20/2024,Dr. Bailey,Pulmonology,Smithmouth,A-,Yes,15271,Recovered,General
+P0711,Debra Price,30,Female,Asthma,11/24/2024,12/9/2024,Dr. May,Infectious Disease,Reevesside,O-,Yes,60202,Under Treatment,Private
+P0712,Kathryn Miller,54,Female,Heart Disease,6/15/2024,6/19/2024,Dr. Moreno,General Medicine,Port Paula,B-,Yes,72411,Under Treatment,General
+P0713,Perry Guerrero,2,Female,COVID-19,2/1/2026,2/10/2026,Dr. Peterson,Cardiology,Port Benjamin,O+,No,84970,Recovered,Semi-Private
+P0714,Donna Marshall,38,Male,Diabetes,3/10/2026,3/14/2026,Dr. Galvan,Infectious Disease,Michaelside,AB-,Yes,22154,Recovered,Private
+P0715,Tony Flores,70,Female,Malaria,12/21/2025,1/2/2026,Dr. Jennings,Pulmonology,Perezmouth,A-,No,98680,Recovered,Semi-Private
+P0716,Kayla Martinez,36,Female,Typhoid,10/1/2024,10/10/2024,Dr. Schneider,General Medicine,Lake Ryanborough,B+,No,9818,Recovered,Private
+P0717,Gregory James,41,Female,Typhoid,8/27/2024,9/4/2024,Dr. Patel,Endocrinology,East Jeffreyton,B-,No,25819,Recovered,Semi-Private
+P0718,Mallory Daniels,51,Female,Malaria,2/22/2025,3/2/2025,Dr. Henderson,General Medicine,Joseview,B-,No,41893,Recovered,Semi-Private
+P0719,Amanda Ramsey,54,Female,Dengue,3/2/2025,3/15/2025,Dr. Horton,Infectious Disease,Meganmouth,A+,No,51435,Under Treatment,Private
+P0720,James Suarez,44,Male,Malaria,10/3/2025,10/13/2025,Dr. Watson,Cardiology,Nancytown,B+,No,29685,Recovered,Private
+P0721,Dr. Nancy Scott MD,59,Male,Hypertension,9/7/2024,9/15/2024,Dr. Larson,Pulmonology,New Alexandra,O-,No,57616,Recovered,Semi-Private
+P0722,Jill Howard,64,Female,Hypertension,11/7/2024,11/8/2024,Dr. Forbes,Infectious Disease,Port Jason,B+,Yes,17325,Under Treatment,Semi-Private
+P0723,Evelyn Ferguson,77,Male,Asthma,2/17/2025,3/4/2025,Dr. Bass,Pulmonology,West Anthony,B+,No,87442,Recovered,Semi-Private
+P0724,Christopher Pennington,47,Female,Dengue,2/10/2025,2/15/2025,Dr. Mcgrath,Infectious Disease,Lisamouth,A+,No,36823,Recovered,Private
+P0725,Brandon Delacruz,3,Female,Malaria,4/1/2026,4/13/2026,Dr. Nelson,Endocrinology,Amyborough,B-,Yes,48438,Under Treatment,Private
+P0726,Christopher Newton,27,Female,Malaria,7/1/2024,7/4/2024,Dr. Owen,Infectious Disease,Lawrencetown,AB-,No,82206,Under Treatment,Private
+P0727,Morgan Sullivan,9,Male,Dengue,5/2/2025,5/13/2025,Dr. Benitez,Pulmonology,Andrewshire,AB-,No,26944,Under Treatment,General
+P0728,Michael Moore,75,Male,Asthma,1/5/2026,1/8/2026,Dr. Clark,Infectious Disease,Lake Alexanderfort,A+,No,91890,Recovered,Semi-Private
+P0729,Benjamin Coleman,9,Female,COVID-19,8/12/2024,8/14/2024,Dr. Simpson,Pulmonology,South Janeport,B+,No,73171,Under Treatment,Private
+P0730,Sarah Doyle,14,Female,Hypertension,2/18/2026,2/25/2026,Dr. Johnston,Cardiology,New Dylan,AB-,No,31150,Under Treatment,Private
+P0731,Joshua Edwards,3,Female,Hypertension,3/20/2026,3/26/2026,Dr. Kerr,General Medicine,Lake Brian,B+,Yes,55243,Recovered,Semi-Private
+P0732,James Zimmerman,75,Male,Heart Disease,5/3/2025,5/18/2025,Dr. Allen,General Medicine,East Jasontown,B-,No,97516,Recovered,General
+P0733,Pamela Hudson,19,Female,Malaria,5/12/2025,5/17/2025,Dr. Whitney,General Medicine,Sherrichester,O-,Yes,28474,Recovered,Semi-Private
+P0734,Jessica Jones,63,Male,Diabetes,11/7/2024,11/10/2024,Dr. Brown,Endocrinology,Haasberg,O+,No,79137,Under Treatment,Semi-Private
+P0735,Mr. Justin Sawyer,80,Male,Asthma,12/2/2025,12/10/2025,Dr. Lynch,Endocrinology,New Jordanberg,O-,Yes,23922,Under Treatment,Semi-Private
+P0736,Brooke Cooke,41,Male,Hypertension,1/3/2026,1/4/2026,Dr. Whitaker,Cardiology,South Megantown,O-,No,68805,Recovered,Private
+P0737,Marcus Boyer,81,Male,Dengue,7/30/2025,8/6/2025,Dr. Cameron,Endocrinology,Collinhaven,O-,No,85129,Recovered,General
+P0738,Lisa Mayer,55,Female,Heart Disease,8/9/2024,8/19/2024,Dr. Porter,Endocrinology,South Andrew,A-,No,12432,Recovered,General
+P0739,Roy Bryant,8,Female,Typhoid,3/1/2026,3/14/2026,Dr. Garcia,Cardiology,North Maria,AB+,Yes,13457,Under Treatment,Private
+P0740,Thomas Beck,10,Male,COVID-19,9/22/2024,10/7/2024,Dr. Gonzalez,Cardiology,West Brandonmouth,AB+,Yes,49301,Under Treatment,Private
+P0741,Stacy Torres,87,Female,COVID-19,3/1/2025,3/8/2025,Dr. Hogan,Cardiology,Kochview,B-,No,40887,Recovered,General
+P0742,Phillip Moore,9,Female,COVID-19,1/8/2026,1/13/2026,Dr. Perez,Infectious Disease,Erikafurt,A-,Yes,63410,Under Treatment,General
+P0743,Casey Taylor,70,Female,Malaria,9/11/2024,9/19/2024,Dr. Carlson,Pulmonology,South Scott,B-,No,8761,Under Treatment,General
+P0744,Jonathan Howard,87,Female,Hypertension,10/5/2025,10/13/2025,Dr. Brown,Cardiology,Burnettburgh,O-,Yes,93055,Under Treatment,Private
+P0745,Robert Spencer,57,Male,Diabetes,1/17/2026,1/29/2026,Dr. Smith,Cardiology,Walterborough,B+,Yes,89455,Recovered,General
+P0746,Wanda Barnes,60,Male,Hypertension,6/13/2025,6/28/2025,Dr. Stevens,Infectious Disease,Phillipsview,A+,No,17235,Under Treatment,General
+P0747,Robert Perez Jr.,67,Male,Typhoid,1/26/2026,2/5/2026,Dr. Harrington,Cardiology,West Jordan,A+,Yes,6625,Under Treatment,General
+P0748,Daniel Smith,67,Male,Asthma,12/23/2025,12/30/2025,Dr. Garcia,Endocrinology,New Ashleybury,AB+,No,8708,Under Treatment,Semi-Private
+P0749,Jeremy Williams,53,Male,Hypertension,5/7/2026,5/12/2026,Dr. Roberts,Endocrinology,Stephenstown,AB-,Yes,77225,Recovered,Private
+P0750,Caroline Sanchez,82,Female,Dengue,3/10/2026,3/23/2026,Dr. Jackson,Endocrinology,Port Dylan,B+,Yes,92814,Recovered,General
+P0751,John Allen,71,Female,Typhoid,6/2/2026,6/17/2026,Dr. Thompson,Pulmonology,Lake Hollyborough,AB+,No,24994,Recovered,General
+P0752,Marisa Hawkins,79,Male,COVID-19,10/11/2024,10/24/2024,Dr. Romero,Cardiology,Ryanfurt,AB+,No,43125,Under Treatment,Semi-Private
+P0753,Brad Ramirez,72,Male,Diabetes,6/4/2026,6/10/2026,Dr. Moore,Endocrinology,West Arianaville,O-,No,77352,Under Treatment,General
+P0754,Keith Smith,57,Male,Malaria,8/6/2024,8/19/2024,Dr. Ross,Infectious Disease,Brewerchester,O+,Yes,66294,Under Treatment,Semi-Private
+P0755,Kayla Brewer PhD,1,Female,Heart Disease,5/26/2025,6/3/2025,Dr. Wright,Infectious Disease,Lake Amyberg,O+,No,88535,Under Treatment,General
+P0756,Francisco Weiss,48,Female,COVID-19,9/18/2025,9/20/2025,Dr. Bates,Pulmonology,East Seanstad,B+,Yes,79325,Under Treatment,General
+P0757,Diana Jackson,16,Female,Malaria,8/27/2024,9/3/2024,Dr. Randolph,Infectious Disease,Sharonport,AB-,No,46962,Recovered,Semi-Private
+P0758,Blake Morse,80,Male,Dengue,5/31/2025,6/15/2025,Dr. Diaz,General Medicine,South Jeffreyburgh,B-,No,16597,Recovered,Semi-Private
+P0759,Isaac Nelson,51,Female,COVID-19,8/1/2025,8/13/2025,Dr. Mejia,General Medicine,Patelborough,B-,No,93991,Under Treatment,Private
+P0760,Samuel Rangel MD,86,Male,Malaria,1/22/2025,1/30/2025,Dr. Anderson,Infectious Disease,Port Kathryn,B+,No,81888,Under Treatment,Private
+P0761,Carol Johnson,53,Female,Malaria,12/5/2025,12/19/2025,Dr. Ruiz,Cardiology,Roweview,A+,No,55031,Under Treatment,Private
+P0762,Mr. Thomas Marshall,68,Female,Diabetes,5/7/2026,5/20/2026,Dr. Watts,Infectious Disease,East Janiceberg,B-,Yes,32477,Under Treatment,Private
+P0763,Alejandra James,3,Male,Diabetes,12/20/2025,12/30/2025,Dr. White,Cardiology,Lake Mark,A-,No,25216,Under Treatment,Semi-Private
+P0764,Mary Carpenter,26,Female,Typhoid,11/4/2025,11/8/2025,Dr. Underwood,Pulmonology,Lake Jennifer,O-,Yes,70713,Recovered,General
+P0765,Mark Wheeler,41,Female,Asthma,12/23/2024,12/27/2024,Dr. Haynes,Cardiology,West Jennifer,A+,Yes,71730,Recovered,General
+P0766,Angela Bennett,16,Female,Typhoid,11/7/2024,11/15/2024,Dr. Williams,Cardiology,North Alexandra,AB+,No,98524,Under Treatment,Semi-Private
+P0767,Juan Marquez,39,Female,Typhoid,5/3/2026,5/12/2026,Dr. Jenkins,Pulmonology,Sydneymouth,AB+,Yes,89876,Under Treatment,Semi-Private
+P0768,Chad Burgess,51,Male,Typhoid,4/16/2025,4/17/2025,Dr. Sheppard,Pulmonology,South Kimberlyfort,A-,Yes,74554,Under Treatment,Semi-Private
+P0769,Chris Knight,24,Female,Typhoid,1/6/2026,1/13/2026,Dr. Goodwin,Cardiology,Gonzalezport,A-,No,58470,Recovered,Private
+P0770,Tina Maxwell,28,Male,Malaria,10/12/2024,10/17/2024,Dr. Turner,Endocrinology,South Nancymouth,B-,No,53497,Under Treatment,Private
+P0771,Kristina Ferguson,15,Male,Hypertension,11/22/2025,12/1/2025,Dr. Hurst,Cardiology,North Victoriafort,B-,Yes,9717,Recovered,General
+P0772,Tammy Miller,54,Female,Hypertension,10/19/2025,10/27/2025,Dr. Allen,Endocrinology,Nicholsville,A-,Yes,73326,Under Treatment,Semi-Private
+P0773,Amanda Williams,80,Female,Heart Disease,2/18/2026,2/23/2026,Dr. Henry,Endocrinology,New Mathew,B-,No,72271,Recovered,Private
+P0774,Peter Sherman MD,14,Female,Typhoid,12/20/2025,12/25/2025,Dr. Rivera,Infectious Disease,West Angela,B-,Yes,64218,Recovered,General
+P0775,Evan Navarro,39,Male,Hypertension,11/2/2024,11/8/2024,Dr. Shields,Cardiology,Fergusonfurt,AB+,Yes,61245,Under Treatment,Semi-Private
+P0776,Elijah Garcia,48,Female,Diabetes,11/19/2024,11/29/2024,Dr. Mcbride,Cardiology,South Margaretville,AB-,Yes,52060,Recovered,Private
+P0777,Tina Cole,63,Female,Malaria,9/19/2025,10/3/2025,Dr. Johnson,Endocrinology,Toddchester,A+,Yes,40036,Under Treatment,Semi-Private
+P0778,Jonathan Henson,70,Male,Typhoid,3/9/2025,3/16/2025,Dr. Williamson,Pulmonology,South Joshuamouth,B+,Yes,81701,Under Treatment,Private
+P0779,Timothy Schwartz,68,Male,COVID-19,5/9/2026,5/12/2026,Dr. Graham,Cardiology,Nguyenland,O-,No,36731,Under Treatment,Private
+P0780,Melinda Graham,30,Female,Dengue,12/13/2024,12/23/2024,Dr. Potter,Pulmonology,West Holly,A-,No,7137,Under Treatment,Semi-Private
+P0781,Miranda Beck,20,Male,Malaria,1/4/2026,1/10/2026,Dr. Ball,General Medicine,East William,O-,No,66282,Recovered,General
+P0782,Brandon Payne,57,Female,Malaria,4/27/2025,5/9/2025,Dr. Bernard,Cardiology,Frederickland,A+,Yes,90495,Under Treatment,Private
+P0783,David Aguilar,17,Male,Typhoid,2/24/2026,3/8/2026,Dr. Moran,Infectious Disease,East Robertburgh,O-,No,24731,Recovered,General
+P0784,Carly Dudley,20,Female,COVID-19,12/4/2025,12/7/2025,Dr. Wood,Infectious Disease,New Dawnberg,A+,Yes,90842,Recovered,Semi-Private
+P0785,Caleb Allen,81,Male,Diabetes,1/11/2026,1/24/2026,Dr. Ramos,General Medicine,North James,AB-,No,40503,Under Treatment,Semi-Private
+P0786,Diane Thompson,35,Female,Dengue,10/14/2025,10/28/2025,Dr. Rivas,Cardiology,New Erica,O-,No,59281,Recovered,General
+P0787,Adrian Long,26,Male,Diabetes,9/21/2024,10/2/2024,Dr. Obrien,Pulmonology,Jenningschester,B+,No,46978,Recovered,Private
+P0788,Laura Jones,12,Male,Diabetes,2/20/2025,3/7/2025,Dr. Travis,Pulmonology,Susanbury,B-,No,77750,Under Treatment,Private
+P0789,Crystal Jimenez,38,Male,Diabetes,2/7/2025,2/16/2025,Dr. Santana,Cardiology,West Ricky,AB-,Yes,41412,Under Treatment,Private
+P0790,Curtis Harris,21,Male,COVID-19,2/19/2026,2/24/2026,Dr. Lopez,General Medicine,West Kevin,A-,No,47436,Recovered,Semi-Private
+P0791,Jennifer Brock,30,Female,Diabetes,6/12/2025,6/15/2025,Dr. Bartlett,Cardiology,New Kathleen,O+,No,91557,Recovered,Semi-Private
+P0792,Stephanie Archer,83,Male,Malaria,1/13/2026,1/28/2026,Dr. Alvarado,Pulmonology,Lake Matthew,O+,No,38338,Recovered,Semi-Private
+P0793,Christopher Holland,1,Female,Asthma,3/19/2025,3/31/2025,Dr. Williams,Cardiology,Hernandezbury,A-,Yes,11057,Under Treatment,Private
+P0794,Tammy Vazquez,54,Female,Typhoid,8/30/2024,9/9/2024,Dr. Avery,Endocrinology,Weberberg,AB-,Yes,31781,Under Treatment,Semi-Private
+P0795,Nicole Blevins,87,Female,Asthma,10/13/2025,10/28/2025,Dr. English,Pulmonology,New Paulbury,AB-,Yes,53738,Under Treatment,Semi-Private
+P0796,Natasha Salazar,46,Female,Asthma,5/30/2026,6/6/2026,Dr. Rodriguez,Cardiology,Mathischester,AB+,Yes,81763,Recovered,General
+P0797,Katie Blanchard,77,Female,Typhoid,5/3/2026,5/11/2026,Dr. Roberts,Cardiology,North Coryside,B-,No,11650,Under Treatment,Semi-Private
+P0798,Tamara Russell,83,Male,Diabetes,12/17/2025,12/28/2025,Dr. Warner,Cardiology,West Robert,A+,No,49431,Recovered,Semi-Private
+P0799,Sara Clarke,4,Female,Asthma,2/12/2025,2/13/2025,Dr. Phillips,Endocrinology,Lake Brendanside,AB-,No,61536,Under Treatment,General
+P0800,Matthew Owens,4,Male,Malaria,12/5/2025,12/7/2025,Dr. Hale,Cardiology,Brownview,A-,Yes,82451,Recovered,General
+P0801,Barbara Reynolds,32,Male,Hypertension,1/8/2025,1/13/2025,Dr. Powell,Infectious Disease,East Briannaberg,O-,Yes,94074,Under Treatment,Semi-Private
+P0802,David Salazar,71,Female,Heart Disease,3/13/2026,3/24/2026,Dr. Marks,Infectious Disease,North Kenneth,AB-,No,93701,Under Treatment,Private
+P0803,Bryan Smith,40,Female,Hypertension,9/24/2024,10/3/2024,Dr. Guzman,Infectious Disease,Fisherchester,AB-,Yes,7880,Under Treatment,General
+P0804,Matthew Lowery,24,Female,COVID-19,5/23/2025,5/24/2025,Dr. Marquez,Pulmonology,Lake Paigemouth,B+,No,79968,Under Treatment,General
+P0805,Nathan Hill,71,Female,Malaria,9/19/2024,10/1/2024,Dr. Nguyen,General Medicine,Schroederfort,AB+,No,32287,Recovered,Private
+P0806,Jessica Taylor,31,Female,COVID-19,3/5/2026,3/12/2026,Dr. Mendoza,General Medicine,Alexaland,B-,No,50170,Recovered,Semi-Private
+P0807,Bryan Grimes,17,Male,Hypertension,10/3/2024,10/10/2024,Dr. Bean,Pulmonology,Brittanymouth,A+,No,83767,Under Treatment,General
+P0808,Crystal Fox MD,21,Male,Malaria,3/16/2026,3/27/2026,Dr. Dixon,Infectious Disease,Michaelport,A+,No,85002,Recovered,Semi-Private
+P0809,Joshua Page,38,Male,Hypertension,4/26/2026,5/4/2026,Dr. Owens,General Medicine,Lake Peterberg,O-,Yes,78715,Recovered,Semi-Private
+P0810,Cynthia Mcdonald,7,Female,Asthma,3/15/2025,3/20/2025,Dr. Matthews,Cardiology,West Maryton,B-,No,69463,Under Treatment,Semi-Private
+P0811,David Peterson,11,Female,,5/27/2026,6/1/2026,Dr. Blankenship,General Medicine,Ortizmouth,A+,Yes,17391,Under Treatment,Private
+P0812,Andrew Roberts,58,Female,Hypertension,11/6/2024,11/16/2024,Dr. Elliott,Pulmonology,North Cynthiashire,O-,No,44198,Under Treatment,Semi-Private
+P0813,Darin Norton,80,Male,Asthma,1/28/2025,1/30/2025,Dr. Osborne,Pulmonology,Russoside,O+,Yes,6373,Under Treatment,Semi-Private
+P0814,Karen Gray,1,Male,Asthma,12/13/2024,12/19/2024,Dr. Sullivan,Pulmonology,Barnettview,O-,Yes,26759,Recovered,General
+P0815,Gary Wright,6,Male,COVID-19,10/15/2025,10/23/2025,Dr. Rose,General Medicine,Ashleyfurt,A+,Yes,9734,Under Treatment,Private
+P0816,Joshua Hampton,72,Female,Hypertension,3/17/2026,3/26/2026,Dr. Farmer,General Medicine,Baileyside,O-,Yes,85912,Under Treatment,Semi-Private
+P0817,Morgan Walsh,54,Female,Hypertension,1/11/2025,1/21/2025,Dr. Moore,General Medicine,West Scott,B-,Yes,27142,Recovered,Private
+P0818,Ryan Warner,30,Male,Hypertension,10/8/2025,10/9/2025,Dr. Mitchell,Endocrinology,North Monicatown,O-,No,71810,Under Treatment,General
+P0819,Ryan Gray,15,Male,Heart Disease,4/11/2025,4/19/2025,Dr. Gonzales,Cardiology,Hallhaven,A-,Yes,80452,Recovered,Private
+P0820,Natalie Krause,36,Male,Diabetes,1/31/2026,2/3/2026,Dr. Lewis,Pulmonology,South Thomas,A-,Yes,60650,Under Treatment,Private
+P0821,Matthew Adams,76,Female,Dengue,5/13/2025,5/16/2025,Dr. Ballard,Pulmonology,Lake Gina,AB-,No,80994,Under Treatment,Semi-Private
+P0822,Matthew Murray,1,Male,Asthma,3/23/2025,3/28/2025,Dr. Pacheco,Infectious Disease,Petersonstad,A-,No,72324,Recovered,General
+P0823,George Simmons,27,Male,Heart Disease,3/11/2025,3/25/2025,Dr. Hunt,Cardiology,West Joshuaside,A+,Yes,18374,Recovered,General
+P0824,Donna Griffin,7,Female,Malaria,8/13/2025,8/27/2025,Dr. Williams,General Medicine,North Lisa,O-,Yes,89454,Under Treatment,Private
+P0825,Michele Knight,30,Male,Diabetes,10/25/2025,10/31/2025,Dr. Mckee,General Medicine,Lake Tracimouth,A-,No,87736,Under Treatment,General
+P0826,Angela Williams,9,Male,Asthma,5/1/2025,5/6/2025,Dr. Garcia,Pulmonology,Luisberg,A+,Yes,30329,Under Treatment,Private
+P0827,Anthony Schultz,54,Male,Heart Disease,11/20/2024,11/30/2024,Dr. Wilson,Cardiology,Benjaminville,A+,No,34604,Recovered,Semi-Private
+P0828,Shawn Sheppard,63,Male,Heart Disease,7/13/2024,7/28/2024,Dr. Gillespie,Endocrinology,West Jenniferchester,B+,No,11164,Under Treatment,General
+P0829,Pamela Gonzales,20,Female,Typhoid,4/21/2025,4/26/2025,Dr. Smith,General Medicine,Port James,O+,Yes,46820,Recovered,Private
+P0830,Kevin Johnson,80,Female,Asthma,4/19/2026,5/1/2026,Dr. Chen,Pulmonology,Port Thomasside,A-,No,60966,Under Treatment,Private
+P0831,Kelly West,70,Female,Asthma,9/8/2025,9/16/2025,Dr. Johnson,Pulmonology,Danielside,B+,No,31964,Under Treatment,Semi-Private
+P0832,Zachary Martinez,36,Male,Malaria,6/7/2025,6/12/2025,Dr. Oliver,Pulmonology,West Mary,A+,Yes,19036,Recovered,Private
+P0833,Kathy Cook,29,Male,Diabetes,7/21/2025,8/3/2025,Dr. Stanley,Endocrinology,Georgetown,A-,Yes,83250,Recovered,Private
+P0834,Jack Phelps,34,Male,Asthma,11/12/2025,11/20/2025,Dr. Fuentes,Cardiology,East Thomasbury,A-,No,45360,Under Treatment,General
+P0835,Karen Lawrence,73,Male,COVID-19,6/10/2025,6/24/2025,Dr. Olson,Pulmonology,Wolfehaven,B+,No,89333,Under Treatment,General
+P0836,Ashley Valencia,84,Female,COVID-19,9/3/2024,9/4/2024,Dr. Jones,Cardiology,Marshallbury,A-,No,96659,Recovered,General
+P0837,Savannah Harrell,6,Male,COVID-19,6/13/2026,6/17/2026,Dr. Reyes,General Medicine,New Michelle,AB+,Yes,16751,Recovered,Semi-Private
+P0838,Kaitlyn Graham,83,Male,Diabetes,12/27/2025,1/4/2026,Dr. Smith,Cardiology,Scottchester,B-,No,31026,Recovered,General
+P0839,Thomas Lee,63,Male,COVID-19,1/20/2026,2/4/2026,Dr. Nichols,Pulmonology,East Danielville,A-,Yes,37698,Under Treatment,General
+P0840,Gavin Day,56,Female,Hypertension,12/31/2025,1/15/2026,Dr. Evans,Infectious Disease,Karenmouth,O-,No,26428,Under Treatment,Private
+P0841,Dominique Bishop,50,Female,Malaria,9/13/2025,9/23/2025,Dr. Taylor,Infectious Disease,East Sharonburgh,AB-,No,13624,Recovered,Private
+P0842,Jessica Pitts,48,Female,COVID-19,7/25/2025,7/26/2025,Dr. Williamson,General Medicine,South Ashley,AB+,Yes,69798,Under Treatment,General
+P0843,Tracy Knight,82,Female,Asthma,7/9/2024,7/24/2024,Dr. Sims,General Medicine,New Ralph,AB+,No,56525,Recovered,Private
+P0844,Kelly Wade,24,Male,Typhoid,11/26/2025,11/27/2025,Dr. Roth,Endocrinology,Martinberg,A-,Yes,40169,Recovered,Private
+P0845,Adam Fisher,80,Female,Dengue,9/30/2024,10/15/2024,Dr. Chan,Infectious Disease,Harrisshire,B-,Yes,58345,Under Treatment,Private
+P0846,Justin Chang,85,Male,Typhoid,11/9/2024,11/11/2024,Dr. Zimmerman,Pulmonology,East Stephenmouth,B+,No,30942,Recovered,General
+P0847,Michele Jones,50,Female,Dengue,5/26/2026,6/9/2026,Dr. Marshall,Cardiology,South Travis,A+,No,99052,Recovered,General
+P0848,Daniel Harmon,21,Male,Typhoid,11/25/2025,11/26/2025,Dr. Smith,Pulmonology,East David,AB-,Yes,86234,Under Treatment,Private
+P0849,Mary Mullins,80,Female,COVID-19,10/5/2024,10/11/2024,Dr. Mccullough,General Medicine,West Sally,A+,No,65832,Under Treatment,Semi-Private
+P0850,Melanie White,52,Male,Heart Disease,7/14/2025,7/20/2025,Dr. Hansen,General Medicine,North Caroline,A+,No,67506,Recovered,Semi-Private
+P0851,Willie Shields,50,Female,Asthma,7/9/2024,7/21/2024,Dr. Hernandez,Pulmonology,Lindseyhaven,O-,Yes,39793,Under Treatment,General
+P0852,Christina Diaz,38,Male,Malaria,1/10/2026,1/12/2026,Dr. Johnson,Endocrinology,Lake Gregory,A+,Yes,67701,Recovered,Semi-Private
+P0853,Megan Tyler,35,Male,Asthma,2/8/2026,2/9/2026,Dr. Doyle,General Medicine,Angelachester,AB-,Yes,52699,Under Treatment,General
+P0854,Julie Day,59,Male,Dengue,6/15/2025,6/28/2025,Dr. Shepard,Endocrinology,North Catherine,B-,No,36512,Recovered,General
+P0855,Monica Wheeler,83,Male,Diabetes,9/14/2024,9/28/2024,Dr. Pope,Infectious Disease,Port Maryshire,B+,Yes,58427,Recovered,General
+P0856,Katherine Strong,65,Female,Asthma,6/4/2026,6/17/2026,Dr. Perkins,Infectious Disease,Michelleburgh,A+,Yes,26507,Under Treatment,General
+P0857,Jennifer Russo,7,Male,Dengue,11/30/2024,12/10/2024,Dr. Brown,General Medicine,Lake Cassidy,O+,Yes,33071,Recovered,General
+P0858,Robert Davenport,33,Male,Asthma,12/29/2024,1/4/2025,Dr. Livingston,Cardiology,Port Gerald,AB-,No,34171,Recovered,Semi-Private
+P0859,Amanda Mcmillan,75,Female,Asthma,9/2/2024,9/16/2024,Dr. Wright,Pulmonology,New Christinahaven,B+,Yes,99394,Recovered,Private
+P0860,Nancy Shepherd,55,Male,COVID-19,6/22/2024,6/29/2024,Dr. Roberts,Pulmonology,Port Jessica,AB-,Yes,50364,Recovered,General
+P0861,Erika Leonard,3,Female,Dengue,2/27/2026,3/9/2026,Dr. Alvarez,General Medicine,Arnoldfort,O-,Yes,28294,Recovered,Semi-Private
+P0862,Chelsea White,80,Female,Typhoid,4/10/2025,4/24/2025,Dr. David,General Medicine,Parkfurt,O-,No,72209,Recovered,Semi-Private
+P0863,Nicole Mclaughlin,63,Male,Diabetes,8/30/2024,9/5/2024,Dr. Smith,Infectious Disease,West Ericatown,B-,Yes,58205,Under Treatment,General
+P0864,James Harper,53,Male,Malaria,12/28/2025,12/31/2025,Dr. Knox,Pulmonology,North Michaelburgh,AB-,Yes,74335,Recovered,General
+P0865,Steven Burns,39,Male,Hypertension,3/29/2026,4/6/2026,Dr. Jones,Endocrinology,Michaelview,B-,No,34314,Under Treatment,Private
+P0866,Lauren Williams,8,Female,Diabetes,7/3/2025,7/7/2025,Dr. Fernandez,Infectious Disease,Christopherside,B+,No,48714,Under Treatment,Semi-Private
+P0867,Margaret Gomez,32,Male,Heart Disease,10/9/2024,10/10/2024,Dr. Humphrey,Infectious Disease,West Anthony,A+,No,66507,Under Treatment,General
+P0868,Andrew Nelson,60,Female,Diabetes,8/7/2024,8/21/2024,Dr. Fox,General Medicine,Harrisview,O-,No,45287,Under Treatment,Semi-Private
+P0869,Jonathan Fitzgerald,72,Male,Typhoid,11/24/2024,12/5/2024,Dr. Perez,Pulmonology,North Feliciaport,AB+,No,56633,Under Treatment,Private
+P0870,Michael Schroeder,36,Male,Hypertension,5/10/2026,5/16/2026,Dr. Baker,Endocrinology,West Nancyton,O-,Yes,22958,Recovered,Semi-Private
+P0871,Ronald Rodriguez,63,Male,COVID-19,3/12/2026,3/27/2026,Dr. Garner,Cardiology,Nicholasmouth,O-,Yes,33123,Recovered,Private
+P0872,Linda Fisher,46,Female,Hypertension,1/16/2025,1/28/2025,Dr. Stewart,Pulmonology,Dennisshire,A-,Yes,5079,Under Treatment,Private
+P0873,Alexander Palmer,6,Female,Malaria,3/8/2026,3/13/2026,Dr. Dunn,General Medicine,New John,A+,No,58844,Recovered,General
+P0874,Richard Hill,61,Male,Malaria,4/6/2025,4/15/2025,Dr. Burgess,Endocrinology,Troyview,O-,Yes,28988,Under Treatment,Private
+P0875,Mark Padilla,72,Male,Dengue,10/2/2025,10/4/2025,Dr. Graham,General Medicine,Petershaven,O+,Yes,45182,Under Treatment,Semi-Private
+P0876,Miss Taylor Vang,17,Male,Heart Disease,2/26/2025,3/8/2025,Dr. Manning,General Medicine,Bauermouth,B-,No,70754,Recovered,Private
+P0877,Derek Turner,9,Male,Asthma,1/23/2025,2/2/2025,Dr. Powers,General Medicine,Sandersmouth,AB+,Yes,52051,Under Treatment,Private
+P0878,Jennifer Carson,26,Female,Asthma,6/23/2024,7/6/2024,Dr. Rose,Infectious Disease,Brownton,O-,No,39561,Under Treatment,Private
+P0879,Dr. Karen Taylor,49,Male,Heart Disease,1/22/2025,1/28/2025,Dr. Gibson,Infectious Disease,West Michellefort,A+,No,97673,Under Treatment,Private
+P0880,Debra Martinez,14,Male,Heart Disease,4/28/2025,5/2/2025,Dr. Serrano,Cardiology,Jamesshire,B-,Yes,79874,Under Treatment,Semi-Private
+P0881,James Terry,43,Male,Typhoid,8/13/2025,8/18/2025,Dr. Scott,General Medicine,Valerieside,O+,No,94476,Recovered,Semi-Private
+P0882,William Bennett,70,Female,Malaria,7/16/2024,7/19/2024,Dr. Mason,General Medicine,Lake George,B-,Yes,19078,Under Treatment,Semi-Private
+P0883,Terri Brown,18,Female,Heart Disease,5/1/2025,5/8/2025,Dr. Hill,Pulmonology,Blakeside,B-,No,85271,Under Treatment,General
+P0884,Christine Anderson,18,Female,Malaria,7/4/2025,7/10/2025,Dr. Thomas,Cardiology,Kellystad,AB-,No,30539,Recovered,Private
+P0885,Brooke Johnson,89,Male,Malaria,4/10/2026,4/14/2026,Dr. Roman,Cardiology,North Deniseberg,A+,No,20466,Under Treatment,Semi-Private
+P0886,Christina Hale,22,Female,Dengue,4/5/2026,4/17/2026,Dr. Guzman,Endocrinology,Nicoletown,AB-,No,23622,Recovered,Private
+P0887,Angela Dorsey,7,Female,Hypertension,6/15/2025,6/30/2025,Dr. Hawkins,General Medicine,Leeton,A+,No,36410,Recovered,Private
+P0888,Melvin Thomas DVM,67,Female,Malaria,9/1/2024,9/12/2024,Dr. Sanchez,Endocrinology,Port Eric,O-,Yes,96271,Under Treatment,Semi-Private
+P0889,Connie Smith,11,Female,Asthma,8/7/2025,8/16/2025,Dr. Parker,Endocrinology,New Joelberg,B+,No,49523,Under Treatment,Semi-Private
+P0890,Tammie Morse,48,Male,Dengue,7/9/2024,7/15/2024,Dr. Edwards,Endocrinology,Port Donna,AB-,Yes,73779,Recovered,Private
+P0891,Nicole King,46,Male,Diabetes,7/3/2024,7/18/2024,Dr. Lang,Infectious Disease,Petersonchester,A+,No,81143,Recovered,Private
+P0892,Ross West,61,Male,Hypertension,5/29/2025,6/8/2025,Dr. Graham,Cardiology,East Shelby,AB-,Yes,73579,Under Treatment,General
+P0893,Suzanne Stanley,90,Male,Diabetes,6/16/2025,6/30/2025,Dr. Perez,Endocrinology,Dorothyland,A+,Yes,98494,Recovered,Semi-Private
+P0894,Jeffrey Hanna,1,Male,COVID-19,4/5/2025,4/19/2025,Dr. Davis,Infectious Disease,West Jenniferburgh,B+,Yes,78817,Recovered,Semi-Private
+P0895,Nicole Gill,38,Female,Typhoid,3/9/2025,3/24/2025,Dr. Kennedy,Endocrinology,Kellybury,O-,No,34131,Under Treatment,Semi-Private
+P0896,Melissa Jones,60,Male,COVID-19,10/25/2025,11/3/2025,Dr. Smith,Cardiology,West Michaelview,A-,No,84122,Under Treatment,General
+P0897,Karina West,31,Male,Diabetes,10/5/2024,10/13/2024,Dr. Barnes,Cardiology,Adamston,B-,No,71949,Recovered,Semi-Private
+P0898,Joshua Barnes,85,Female,Heart Disease,7/13/2025,7/18/2025,Dr. Frazier,Infectious Disease,Antonioburgh,B-,Yes,19984,Under Treatment,General
+P0899,Kevin Valdez,5,Female,Heart Disease,12/24/2024,12/30/2024,Dr. Mcguire,General Medicine,Kevinstad,O-,No,80167,Recovered,Semi-Private
+P0900,Billy Martinez,64,Female,Dengue,5/24/2025,6/2/2025,Dr. Cunningham,Endocrinology,Caseyport,B+,No,81698,Recovered,General
+P0901,Louis Henry,43,Male,Hypertension,3/17/2025,3/22/2025,Dr. Carter,Infectious Disease,New Emily,AB-,No,20617,Under Treatment,Semi-Private
+P0902,Tricia Neal,19,Female,COVID-19,1/12/2026,1/26/2026,Dr. Mcdonald,Cardiology,East Jeffreyton,B-,No,83981,Under Treatment,General
+P0903,Mrs. Jill Medina DDS,12,Male,Hypertension,10/27/2025,11/8/2025,Dr. Cooper,General Medicine,Lindseyland,B-,Yes,91879,Recovered,Private
+P0904,Elijah Ayala,62,Female,Asthma,8/20/2025,9/2/2025,Dr. Rodriguez,Infectious Disease,Christianview,A+,No,14249,Recovered,General
+P0905,Jessica Wilson,42,Female,Diabetes,11/7/2024,11/17/2024,Dr. Becker,General Medicine,Theresachester,B+,No,37851,Recovered,General
+P0906,Mike Johnson,44,Female,Dengue,10/30/2024,11/3/2024,Dr. Johnson,Pulmonology,Nicoleshire,O-,No,47097,Under Treatment,Private
+P0907,Sara Johnson,71,Male,Asthma,9/8/2025,9/10/2025,Dr. Morales,Infectious Disease,South Colleen,AB-,No,40270,Recovered,Semi-Private
+P0908,Anne Bell,79,Male,Dengue,3/28/2026,4/11/2026,Dr. Sherman,General Medicine,North Jesse,O+,Yes,6788,Recovered,Semi-Private
+P0909,Chad Frank,12,Female,Dengue,3/22/2026,3/30/2026,Dr. Gould,Pulmonology,West Michelle,B+,No,87177,Recovered,General
+P0910,Melissa James,34,Female,Typhoid,10/23/2024,10/30/2024,Dr. Harris,Infectious Disease,Shelbyfort,AB+,No,11122,Recovered,Semi-Private
+P0911,Cynthia Mitchell,5,Female,Malaria,9/1/2025,9/4/2025,Dr. Martinez,Endocrinology,East Valerie,B+,No,70089,Under Treatment,General
+P0912,Marc Woodward,79,Female,Typhoid,11/4/2025,11/5/2025,Dr. Oneal,Pulmonology,Amberstad,B-,Yes,39726,Under Treatment,Semi-Private
+P0913,Paul Nash,46,Female,COVID-19,5/7/2026,5/18/2026,Dr. Taylor,Infectious Disease,East Jonathanview,A+,Yes,60619,Recovered,Private
+P0914,Peter Ellis,55,Female,Dengue,10/31/2025,11/9/2025,Dr. Stephens,Infectious Disease,Reedmouth,A+,No,51137,Under Treatment,Semi-Private
+P0915,Anthony Williams,57,Female,Dengue,8/7/2025,8/19/2025,Dr. Wise,Pulmonology,East Williamtown,AB-,Yes,42605,Recovered,Semi-Private
+P0916,Christopher Cobb,39,Female,Diabetes,6/8/2026,6/12/2026,Dr. Schwartz,Cardiology,East Deniseville,AB-,No,5929,Under Treatment,Semi-Private
+P0917,Gregory White,87,Female,Typhoid,3/4/2025,3/14/2025,Dr. Wilson,Pulmonology,Hugheston,B+,Yes,40533,Under Treatment,Semi-Private
+P0918,Brian Gardner,74,Female,Typhoid,6/24/2025,6/30/2025,Dr. Perkins,Cardiology,Masonmouth,O-,Yes,92434,Recovered,Private
+P0919,Sarah Johnson,83,Female,Dengue,8/13/2024,8/24/2024,Dr. Lee,Endocrinology,East Michelle,O-,Yes,50391,Recovered,Private
+P0920,Pamela Cox,83,Female,Malaria,3/5/2025,3/6/2025,Dr. Curtis,Infectious Disease,New Sherryville,AB+,Yes,95485,Under Treatment,General
+P0921,Angel Baxter,4,Female,Diabetes,7/29/2024,7/31/2024,Dr. Johnson,Pulmonology,Carlamouth,B+,Yes,30565,Recovered,Semi-Private
+P0922,Melissa Jennings,75,Female,Heart Disease,2025-05-01,5/14/2025,Dr. Wright,Endocrinology,Lake Jenniferfurt,A+,Yes,97853,Under Treatment,Private
+P0923,Allison Wagner,74,Male,COVID-19,5/13/2025,5/23/2025,Dr. Velez,Endocrinology,Andradetown,A+,No,81434,Recovered,General
+P0924,Paul Potter,8,Male,Heart Disease,6/11/2025,6/20/2025,Dr. Green,General Medicine,Brandtfurt,AB-,Yes,9102,Recovered,Semi-Private
+P0925,Ms. Emma Villegas DDS,84,Male,Diabetes,10/11/2024,10/26/2024,Dr. Tate,General Medicine,New Joseph,A-,Yes,60088,Recovered,General
+P0926,Kayla Reed,41,Male,Malaria,8/8/2024,8/18/2024,Dr. Thomas,Cardiology,Port Marieborough,A-,No,90312,Recovered,Private
+P0927,Angela Obrien,76,Male,Hypertension,7/7/2024,7/21/2024,Dr. Carr,Pulmonology,Alecmouth,O+,Yes,31789,Recovered,Private
+P0928,Ethan Bradley,3,Female,Dengue,4/1/2026,4/12/2026,Dr. Hernandez,Pulmonology,Karaton,A-,No,71497,Under Treatment,General
+P0929,Theresa Paul,75,Female,Dengue,1/29/2025,2/1/2025,Dr. Harris,Infectious Disease,Michaelmouth,O-,Yes,78208,Under Treatment,Semi-Private
+P0930,Valerie Townsend,61,Male,Malaria,11/11/2025,11/23/2025,Dr. Burns,Cardiology,Davidberg,A+,No,53788,Recovered,General
+P0931,William Wilson,80,Female,Malaria,12/2/2025,12/16/2025,Dr. Mitchell,Pulmonology,Lake Debbieland,AB-,Yes,46283,Under Treatment,General
+P0932,Amy Mercado,69,Male,Malaria,3/25/2026,4/1/2026,Dr. Edwards,Endocrinology,Danielfurt,O-,No,19821,Recovered,Private
+P0933,Henry Roth,26,Female,Dengue,10/3/2025,10/9/2025,Dr. Gray,Endocrinology,North Becky,B+,Yes,15671,Recovered,General
+P0934,Cole Garcia,50,Female,Dengue,11/22/2024,11/27/2024,Dr. Robinson,Infectious Disease,Jeromeborough,B+,Yes,42345,Recovered,Semi-Private
+P0935,Austin Simmons,16,Male,Hypertension,2/21/2026,3/8/2026,Dr. Jones,Cardiology,Bretthaven,B+,Yes,76977,Recovered,General
+P0936,Thomas Morrow,88,Male,COVID-19,12/20/2024,1/1/2025,Dr. Sanders,Endocrinology,West Michaelborough,O+,Yes,71962,Under Treatment,Semi-Private
+P0937,Joshua Castillo,52,Male,Dengue,11/12/2024,11/21/2024,Dr. Barrera,Cardiology,Patelfort,B-,Yes,21070,Recovered,Private
+P0938,Eric Williams,46,Female,Asthma,8/31/2024,9/4/2024,Dr. Griffin,Cardiology,Port Kellyside,O-,Yes,71133,Recovered,Private
+P0939,James Hughes,68,Female,COVID-19,9/17/2025,9/21/2025,Dr. Harris,General Medicine,Fieldsview,O+,Yes,81325,Under Treatment,Semi-Private
+P0940,Emily Mccormick,4,Male,COVID-19,2/1/2025,2/14/2025,Dr. Alexander,Infectious Disease,East Cynthia,O+,No,42393,Under Treatment,General
+P0941,Alexis Bennett,54,Female,Diabetes,8/18/2024,9/1/2024,Dr. Brown,Cardiology,Ericport,B-,No,47818,Recovered,Semi-Private
+P0942,Kathryn Torres,55,Female,COVID-19,1/2/2026,1/16/2026,Dr. Shaffer,Endocrinology,Port Shelleyshire,A+,No,59233,Under Treatment,Semi-Private
+P0943,Stephen Mendez,40,Male,Malaria,9/8/2024,9/9/2024,Dr. Meza,General Medicine,East Greg,B+,Yes,98077,Recovered,Private
+P0944,Joshua Jackson,9,Male,Malaria,8/22/2024,8/27/2024,Dr. Gonzalez,Infectious Disease,Johnsonborough,B+,Yes,8642,Under Treatment,General
+P0945,Dean Villanueva,39,Female,Heart Disease,11/12/2024,11/23/2024,Dr. Gonzales,Endocrinology,Aliciaville,B+,Yes,58395,Recovered,General
+P0946,Richard Stephenson,5,Female,COVID-19,9/19/2025,10/2/2025,Dr. Davis,Pulmonology,North Jason,AB+,No,93238,Under Treatment,General
+P0947,Audrey Drake,29,Male,Heart Disease,9/30/2024,10/5/2024,Dr. Lopez,Cardiology,Christophershire,AB-,Yes,41461,Recovered,Private
+P0948,Stephen Oneill,8,Female,Dengue,10/5/2024,10/8/2024,Dr. Goodman,Pulmonology,East Tamara,O+,No,80564,Recovered,Private
+P0949,William Montgomery,13,Male,Dengue,6/29/2024,7/10/2024,Dr. Gallagher,General Medicine,Jesusview,B-,No,96162,Under Treatment,Private
+P0950,Tommy King,67,Female,Asthma,8/4/2024,8/18/2024,Dr. Kim,Infectious Disease,Shahstad,O-,No,91499,Under Treatment,General
+P0951,Keith Collins,45,Female,Dengue,9/23/2025,9/25/2025,Dr. Church,Endocrinology,Port Jaclyn,O-,No,10990,Recovered,General
+P0952,Ryan Johnson,3,Male,Diabetes,4/14/2025,4/26/2025,Dr. Gibson,Infectious Disease,Lake Karenburgh,AB-,No,12460,Recovered,Semi-Private
+P0953,Seth Morris,8,Female,Heart Disease,3/12/2026,3/13/2026,Dr. Barrera,Pulmonology,New Gailbury,A-,No,32740,Under Treatment,General
+P0954,Timothy Kim,62,Male,Malaria,4/2/2025,4/8/2025,Dr. Clark,General Medicine,Burgesstown,B-,Yes,96773,Recovered,Private
+P0955,Kyle Moore,63,Female,Heart Disease,9/1/2025,9/7/2025,Dr. Summers,Infectious Disease,South Aprilberg,O-,No,50342,Recovered,General
+P0956,Mary Campbell,6,Female,Hypertension,8/18/2024,9/2/2024,Dr. Moore,Endocrinology,Maryland,O+,Yes,44441,Recovered,Private
+P0957,Paul Lee,9,Female,Dengue,11/21/2025,12/5/2025,Dr. Evans,General Medicine,Lake Markshire,O-,Yes,35567,Recovered,General
+P0958,Brandon Hartman,29,Male,Hypertension,5/1/2026,5/9/2026,Dr. Lowery,Pulmonology,North Kellyton,AB+,No,49633,Recovered,Private
+P0959,Julie Logan,64,Male,Malaria,7/16/2024,7/26/2024,Dr. Conner,General Medicine,Wagnerview,AB-,No,98565,Under Treatment,Private
+P0960,Christopher Hall,27,Male,Dengue,10/4/2025,10/12/2025,Dr. Rodgers,Infectious Disease,New Michaelton,A-,No,95169,Recovered,General
+P0961,Andrew Mckinney,18,Female,Diabetes,7/18/2024,7/28/2024,Dr. Jones,Cardiology,South Ricardostad,O+,Yes,50794,Recovered,Private
+P0962,Julie Garcia,30,Female,Diabetes,6/18/2024,6/21/2024,Dr. Morris,Endocrinology,Bruceside,B+,Yes,51075,Under Treatment,Semi-Private
+P0963,Anthony Bautista,31,Female,Diabetes,12/6/2024,12/18/2024,Dr. Grant,Endocrinology,Davidbury,A-,Yes,66393,Under Treatment,Private
+P0964,Jaime Moore,63,Male,Asthma,11/27/2024,12/3/2024,Dr. Green,General Medicine,Jenniferside,O-,No,33458,Under Treatment,Private
+P0965,Briana Ibarra,77,Male,Asthma,8/28/2024,9/11/2024,Dr. Anderson,General Medicine,New Aaron,AB-,No,41096,Recovered,General
+P0966,Jeffrey Combs,66,Male,Asthma,11/30/2024,12/7/2024,Dr. Moore,Endocrinology,Lake Taylor,O+,Yes,42308,Under Treatment,Private
+P0967,Stephen Martinez,36,Male,COVID-19,2/8/2025,2/22/2025,Dr. Whitaker,Endocrinology,Joshuamouth,AB-,No,46665,Recovered,Semi-Private
+P0968,Margaret Daniel,13,Male,Heart Disease,3/14/2025,3/19/2025,Dr. Simmons,Endocrinology,Ortegaburgh,O+,Yes,76454,Recovered,General
+P0969,Jessica Hughes,81,Female,COVID-19,5/11/2026,5/21/2026,Dr. Young,Endocrinology,West Trevor,AB-,Yes,11649,Recovered,Private
+P0970,Christopher Anthony,60,Male,COVID-19,5/5/2025,5/14/2025,Dr. Price,Endocrinology,West Samuelborough,B+,No,35467,Under Treatment,Private
+P0971,Rachel Goodman,23,Female,Hypertension,8/15/2025,8/27/2025,Dr. Robinson,Cardiology,East Andrewview,O-,Yes,56237,Under Treatment,Semi-Private
+P0972,Michael Duncan,15,Male,Typhoid,12/3/2024,12/5/2024,Dr. Lee,Pulmonology,Lake Sandra,B+,No,62244,Under Treatment,Private
+P0973,Laura Daniels,65,Female,Malaria,1/4/2025,1/19/2025,Dr. Cook,Infectious Disease,Lake Kristenburgh,A-,No,89499,Recovered,Semi-Private
+P0974,Brooke Jackson,42,Male,Dengue,3/20/2025,3/23/2025,Dr. Martinez,Pulmonology,Sandersberg,AB+,No,65127,Recovered,General
+P0975,Carl Smith,17,Male,COVID-19,9/11/2025,9/19/2025,Dr. Spencer,Infectious Disease,Riddleborough,B-,No,7957,Recovered,General
+P0976,Mark Franklin,6,Female,Dengue,8/23/2025,8/30/2025,Dr. Butler,Endocrinology,Port Jonathan,A+,No,6299,Under Treatment,Semi-Private
+P0977,Larry Obrien,71,Male,COVID-19,9/8/2024,9/19/2024,Dr. Alvarez,Pulmonology,South Samantha,AB-,Yes,44371,Under Treatment,Semi-Private
+P0978,Todd Willis,87,Male,Hypertension,11/1/2024,11/14/2024,Dr. Brown,Infectious Disease,Gabrielleview,O-,Yes,6860,Recovered,Private
+P0979,Dakota Young,40,Female,Diabetes,10/23/2024,10/28/2024,Dr. Smith,Pulmonology,Adamsside,O-,Yes,27547,Recovered,Semi-Private
+P0980,Robert Tran,85,Female,Diabetes,11/13/2025,11/27/2025,Dr. Cook,Pulmonology,South Marvin,O+,Yes,72506,Recovered,Private
+P0981,Thomas Jones,86,Female,Malaria,7/4/2025,7/17/2025,Dr. Jones,Infectious Disease,New Patricia,O-,No,14761,Under Treatment,General
+P0982,Cindy Salinas,45,Male,Dengue,3/20/2026,3/21/2026,Dr. Jackson,Cardiology,East Michael,AB+,Yes,18268,Under Treatment,General
+P0983,Thomas Mercado,1,Female,Malaria,11/2/2024,11/4/2024,Dr. Calderon,Cardiology,North Brian,O-,No,57124,Recovered,Private
+P0984,Timothy Daniels,10,Male,Hypertension,7/7/2024,7/20/2024,Dr. Rios,Pulmonology,Carterport,AB+,Yes,59341,Under Treatment,Private
+P0985,Jennifer Hernandez,33,Male,Asthma,3/20/2025,3/21/2025,Dr. Peterson,Pulmonology,South Brandonton,A+,No,35393,Recovered,General
+P0986,Jeffrey Ramirez,26,Male,Asthma,5/21/2025,5/31/2025,Dr. Melton,Pulmonology,Davidmouth,A-,Yes,30821,Under Treatment,Semi-Private
+P0987,Shannon Davis,28,Male,Dengue,1/28/2025,2/9/2025,Dr. Finley,Infectious Disease,New Tylerland,O-,No,91191,Recovered,Private
+P0988,Laura Johnson,54,Female,Diabetes,3/15/2025,3/19/2025,Dr. Hill,General Medicine,Johnsontown,A-,No,60429,Under Treatment,Private
+P0989,Lori Joyce,36,Male,Dengue,8/9/2024,8/12/2024,Dr. Schwartz,Cardiology,Hallmouth,A-,No,58907,Under Treatment,General
+P0990,Phillip Riley,11,Female,Heart Disease,3/6/2025,3/19/2025,Dr. Leon,Cardiology,East Tyler,AB+,Yes,85262,Recovered,General
+P0991,Stephanie Cole,63,Male,Diabetes,11/8/2024,11/10/2024,Dr. Gibson,Infectious Disease,South Angela,AB+,Yes,57167,Recovered,Semi-Private
+P0992,Wendy Ferguson,39,Male,Malaria,3/3/2025,3/4/2025,Dr. Burgess,General Medicine,Christinaberg,A-,Yes,71621,Under Treatment,Private
+P0993,Ryan Meyer,41,Male,COVID-19,8/1/2024,8/6/2024,Dr. Woods,Cardiology,Davidton,O-,Yes,87494,Under Treatment,Semi-Private
+P0994,Brandi Taylor,19,Female,Hypertension,6/14/2026,6/15/2026,Dr. Mcclure,Pulmonology,New Ashleychester,O-,No,76540,Under Treatment,Semi-Private
+P0995,Christopher Lopez,21,Female,COVID-19,9/28/2025,10/3/2025,Dr. Baker,Pulmonology,Brianshire,O+,Yes,93268,Recovered,Private
+P0996,David Kemp,56,Female,Typhoid,8/9/2025,8/19/2025,Dr. Hall,Endocrinology,Port Edwardshire,AB+,No,53453,Recovered,Semi-Private
+P0997,Jennifer White,43,Male,Typhoid,8/17/2025,8/18/2025,Dr. Baker,General Medicine,New Kenneth,B-,Yes,40577,Recovered,Private
+P0998,James Michael,8,Male,COVID-19,2/22/2025,3/7/2025,Dr. Swanson,Pulmonology,Freemanview,A+,Yes,49229,Recovered,Private
+P0999,Courtney Washington,45,Male,Typhoid,11/25/2025,12/5/2025,Dr. Cox,Endocrinology,North Jay,AB-,No,68063,Recovered,Private
+P1000,Pamela Davis,22,Female,Heart Disease,4/21/2025,5/4/2025,Dr. Garcia,Infectious Disease,North Heidi,AB-,No,54985,Recovered,Semi-Private
+Dengue,,,,,,,,,,,,,,
